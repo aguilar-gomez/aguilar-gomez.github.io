@@ -14,7 +14,8 @@ permalink: /publications/
 
 - Bheda, Poonam, **Diana Aguilar-Gómez**, Nils B. Becker, Johannes Becker, Emmanouil Stavrou, Igor Kukhtevich, Thomas Höfer et al. "Single-Cell Tracing Dissects Regulation of Maintenance and Inheritance of Transcriptional Reinduction Memory." *Molecular Cell 2020*
 
-- Acosta, Armando, Gabriel Suárez-Varón, Luis A. Rodríguez-Miranda, Andrés Lira-Noriega, **Diana Aguilar-Gómez**, Mariana Gutiérrez-Mariscal, Oswaldo Hernández-Gallegos, Fausto Méndez-de-la-Cruz, and Diego Cortez. "Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes." Genome Biology and Evolution 11, no. 9 (2019): 2666.
+- Acosta, Armando, Gabriel Suárez-Varón, Luis A. Rodríguez-Miranda, Andrés Lira-Noriega, **Diana Aguilar-Gómez**, Mariana Gutiérrez-Mariscal, Oswaldo Hernández-Gallegos, Fausto Méndez-de-la-Cruz, and Diego Cortez. "Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes." *Genome Biology and Evolution 2019*
+
 - Haojie Tong, Jiashen Li, Yubin Wo, Gang Shao, Wei Zhao, **Diana Aguilar-Gómez**, and Yuanting Jin. “Effects of substrate color on intraspecific body color variation in the toad-headed lizard, Phrynocephalus versicolor.” *Ecology and Evolution 2019*
 
 - Vivian Link, **Diana Aguilar-Gómez**, Ciro Ramírez-Suástegui, Laurence D. Hurst, and Diego Cortez. "Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals." *Genome biology and evolution 2017*
