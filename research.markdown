@@ -20,10 +20,18 @@ I do populations genetics of the multicolor toad-headed lizard (*Phrynochephalus
 #### Previous research
 
 ##### *Microfluidics and transcriptional memory* 
+On my last year of undergrad I had the opportunity to work with [Robert Schneider](https://www.helmholtz-munich.de/ife/research/robert-schneider-chromatin-dynamics-and-epigenetics/research/index.html) , I was working under the supervision of Poonam Bheda. We worked together on her postdoc project which was about transcriptional memory. We induced the GAL gene in yeast by adding galactose to the media where the yeast where growing. Then we repressed the expression by changing the media to glucose. A second time the galactose was added and the expression of the GAL gene was faster and higher. Using a microfuidics set up we would run experiments where we could track single cells for hours as we induced and repressed them several times. We studied the inheritance of this transcriptional memory and some mutants that would result in gain or loss os memory. Articles we published associated to this research:
+
+1. Microfluidics for single-cell lineage tracking over time to characterize transmission of phenotypes in *Saccharomyces cerevisiae*
+
+2. Single-Cell Tracing Dissects Regulation of Maintenance and Inheritance of Transcriptional Reinduction Memory
+
+
+##### *Histone modifications* 
+
 
 ##### *Evolution of sex chromosomes* 
 
-##### *Histone modifications* 
 
 
 [jekyll-organization]: https://github.com/jekyll
