@@ -20,7 +20,7 @@ permalink: /publications/
 
 - Vivian Link, **Diana Aguilar-Gómez**, Ciro Ramírez-Suástegui, Laurence D. Hurst, and Diego Cortez. "Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals." *Genome biology and evolution 2017*. [PDF](/files/publications/2017MaleMutationBiasDCortez.pdf)
 
-- Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. “Histone propionylation is a novel mark of active chromatin”. *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/20172017PropionylationRSchneider.pdf)
+- Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. “Histone propionylation is a novel mark of active chromatin”. *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/2017PropionylationRSchneider.pdf)
 
 
 ### In review
