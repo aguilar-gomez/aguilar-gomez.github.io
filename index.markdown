@@ -8,9 +8,11 @@ title: home
 
 
 ---
-Hi this is my personal website. Hola, cualquier cosa en español también. 
+**Hello, welcome to my website!**
 
-I made this website mainly for academic purposes, feel free to look around and contact me for anything that has to do with my research. 
+Hola, soy de México, cualquier cosa en español también. 
+
+Feel free to look around and contact me for anything related to my research. 
 
 <img src="/figures/JoshuaTreeNov2021DAG.jpg" alt="Joshua Tree" style=";width:600px">
 
