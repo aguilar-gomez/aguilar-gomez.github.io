@@ -1,0 +1,11 @@
+global:
+  tagline: Español
+  home: home
+  twitter: Twitter
+  github: GitHub
+langs:
+  en: inglés
+  es: español
+pages:
+  about: acerca de
+
