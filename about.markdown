@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-**Pronouns: she/her**
+**Pronouns: she/her/ella**
 
 <img src="/figures/IMG_0114.JPG" alt="Me at Cal Academy with *Oophaga pumilio*" style="float:right;padding-right:25px;width:310px">
 I am a PhD Candidate in the [Computational Biology Program](https://ccb.berkeley.edu/academics/phd-in-computational-biology/) at UC Berkeley. I have a bachelor’s degree in Genomic Science from the National Autonomous University of Mexico (UNAM). I am working under the supervision of [Rasmus Nielsen](https://nielsen-lab.github.io/research/). My main projects are about the genetic basis and evolution of color polymorphism. I am particularly working with the toad-headed lizard (*Phrynocephalus versicolor*) from China and the strawberry poison frog (*Oophaga pumilio*) from Panama.
