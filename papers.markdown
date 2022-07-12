@@ -12,7 +12,7 @@ permalink: /papers/
 
 **Aguilar-Gómez,Diana** \*,  Yuanting Jin \*, Débora Y. C. Brandt, Tyler A. Square, Jiasheng Li, Zhengxia Liu, Gang Shao, Tao Wang, Peter H. Sudmant, Craig T. Miller and Rasmus Nielsen.
 
-*Genome Biology and Evolution 2022*[PDF](/files/publications/2022Phrynocephalus.pdf)
+*Genome Biology and Evolution 2022* [PDF](/files/publications/2022Phrynocephalus.pdf)
 
 *co-first authors, image by Philippa Steinberg
 
@@ -31,12 +31,16 @@ Bheda, Poonam, **Diana Aguilar-Gómez**, Nils B. Becker, Johannes Becker, Emmano
 
 ## 2019 and before
 
-- Acosta, Armando, Gabriel Suárez-Varón, Luis A. Rodríguez-Miranda, Andrés Lira-Noriega, **Diana Aguilar-Gómez**, Mariana Gutiérrez-Mariscal, Oswaldo Hernández-Gallegos, Fausto Méndez-de-la-Cruz, and Diego Cortez. "Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes." *Genome Biology and Evolution 2019*. [PDF](/files/publications/2019Basilliscus.pdf)
+#### Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes
+Acosta, Armando, Gabriel Suárez-Varón, Luis A. Rodríguez-Miranda, Andrés Lira-Noriega, **Diana Aguilar-Gómez**, Mariana Gutiérrez-Mariscal, Oswaldo Hernández-Gallegos, Fausto Méndez-de-la-Cruz, and Diego Cortez.  *Genome Biology and Evolution 2019*. [PDF](/files/publications/2019Basilliscus.pdf)
 
-- Haojie Tong, Jiashen Li, Yubin Wo, Gang Shao, Wei Zhao, **Diana Aguilar-Gómez**, and Yuanting Jin. “Effects of substrate color on intraspecific body color variation in the toad-headed lizard, Phrynocephalus versicolor.” *Ecology and Evolution 2019*. [PDF](/files/publications/2019Effectsofsubstratecolor.pdf)
+#### Effects of substrate color on intraspecific body color variation in the toad-headed lizard, Phrynocephalus versicolor.
+Haojie Tong, Jiashen Li, Yubin Wo, Gang Shao, Wei Zhao, **Diana Aguilar-Gómez**, and Yuanting Jin.  *Ecology and Evolution 2019*. [PDF](/files/publications/2019Effectsofsubstratecolor.pdf)
 
-- Vivian Link, **Diana Aguilar-Gómez**, Ciro Ramírez-Suástegui, Laurence D. Hurst, and Diego Cortez. "Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals." *Genome biology and evolution 2017*. [PDF](/files/publications/2017MaleMutationBiasDCortez.pdf)
+#### Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals.
+Vivian Link, **Diana Aguilar-Gómez**, Ciro Ramírez-Suástegui, Laurence D. Hurst, and Diego Cortez.  *Genome biology and evolution 2017*. [PDF](/files/publications/2017MaleMutationBiasDCortez.pdf)
 
-- Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. “Histone propionylation is a novel mark of active chromatin”. *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/2017PropionylationRSchneider.pdf)
+#### Histone propionylation is a novel mark of active chromatin
+Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider.  *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/2017PropionylationRSchneider.pdf)
 
 [jekyll-organization]: https://github.com/jekyll
