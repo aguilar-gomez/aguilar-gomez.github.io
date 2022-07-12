@@ -33,6 +33,22 @@ plugins:
   - jekyll-feed
 
 
+remote_theme: jirrian/jekyll-theme-image-grid@main
+# settings for image grid homepage
+grid_settings:
+  show_all_images: true #true - displays all images in grid page, false - only show first (file name of image sorted alphabetically) image of post in grid page
+  display: square-cropped #square-cropped - images displayed in square grid and cropped, #square-og - images displayed in square grid and with original aspect ratio, masonry - images displayed in original aspect ratio but staggered (please note this will display the images in top to bottom order instead of left to right)
+
+# settings for post pages
+post_settings:
+  show_title: true #true - shows title of post (post filename or title in front matter of post file), false - does not show title of post. this settings can be overwritten in the frontmatter of individual post files with the show_title variable.
+  show_date: true #true - shows date of post (from post filename), false - does not show date of post
+
+plugins:
+  - jekyll-seo-tag
+
+include:
+  - _images
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

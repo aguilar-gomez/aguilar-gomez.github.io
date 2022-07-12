@@ -5,8 +5,6 @@
 layout: page
 title: home
 
-
-
 ---
 **Hello, welcome to my website!**
 
