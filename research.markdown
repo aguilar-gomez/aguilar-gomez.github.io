@@ -8,16 +8,16 @@ permalink: /research/
 
 **Strawberry poision frog genomics**
 
-<img src="/figures/Bocas.JPG" alt="Solarte Oophaga pumilio" style="float:right;padding-left:25px;padding-right:25px;width:250px">
+<img src="/figures/Bocas.JPG" alt="Solarte Oophaga pumilio" style="float:right;padding-left:25px;padding-right:25px;width:350px">
 
 
-*Oophaga pumilio* is the scientific name of this frog. *Oophaga* comes from the greek *phagos* (eat) and *oon* (egg), this type of frog feeds their tadpoles with unfertilized eggs, hence the name. *Pumilio* comes from pigmy/dwarf in greek, which is very descriptive, this frog fits in the tip of one of my fingers. *O. pumilio* is usually red, no wonder it was named "strawberry". However there is an archipelago in Panama called Bocas del Toro where there is a lot of variation. There are several island and almost each one of them has their own color of frog (yellow, green, orange, red, blue, etc). I study their evolution and population history. I am trying to find the genes behind their colors. <br><br>
+*Oophaga pumilio* is the scientific name of the strawberry pison frog. *Oophaga* comes from the greek *phagos* (eat) and *oon* (egg), this type of frog feeds their tadpoles with unfertilized eggs. *Pumilio* means pigmy in greek, which is very descriptive, these frogs are the size of my fingernails. *O. pumilio* is red throughtout its continental distribution. This is an aposematic signal to warn its potential predators of its toxicity. However there is an archipelago in Panama called Bocas del Toro where there is a lot of phenotypic variation. There are several island and almost each one of them has their own frog color (yellow, green, orange, red, blue, etc). I study their evolution and population history. How are different evolutionary forces acting on this polymorphism? What are the genes behind this trait? <br><br>
 
 **Evaluating the genomic rescue in Florida Panthers**
 
-<img src="/figures/puma.png" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:250px">
+<img src="/figures/puma.png" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:330px">
 
-Populations of puma *Puma concolor* a native feline from the Americas are suffering from genomic inbreeding and small population sizes. Humans have reduced their habitats and isolated the populations. Particularly, a population in Big Cypress National Preserve in Florida was very affected. In 1995 eight pumas from Texas were introduced to the population with the purpose of genomic rescue. The aim of this project if to assess how successful the rescue was, whether the unique genetic diversity from Big Cypress is preserved and if the is selection acting on any part of the genome. 
+Populations of puma *Puma concolor* a native feline from the Americas are suffering from genomic inbreeding and small population sizes. Humans have reduced their habitats and isolated the populations. Particularly, a population in Big Cypress National Preserve in Florida was very affected. In 1995, eight pumas from Texas were introduced to the population with the purpose of genomic rescue. I am interesed in understanding how successful the rescue was. Is the local genetic diversity from Big Cypress preserved? Is selection helping preserve variation from a specific ancestry in different parts of the genome?
 
 
 **Lizard adaptation genomics**
