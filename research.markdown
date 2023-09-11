@@ -21,7 +21,7 @@ Populations of puma *Puma concolor* a native feline from the Americas are suffer
 
 
 **Genomic adaptation to free diving in the Haenyeo**
-<img src="/figures/haenyeo.jpg" alt="Haenyeo" style="float:left;padding-left:25px;padding-right:25px;width:250px">
+<img src="/figures/haenyeo.jpg" alt="Haenyeo" style="float:right;padding-left:25px;padding-right:25px;width:350px">
 
 When an activity is strenuous and essential for a population’s survival, selection might shape genomic adaptation to this type of livelihood. The Haenyeo are female divers from Jeju Island in South Korea that have been diving to harvest sea products for centuries without scuba gear. We hypothesized that selection might have allowed the Haenyeo to adapt to a lifestyle of free diving. In collaboration with Dr. Joo-Young Lee from Seoul National University, we took physiological measurements from the Haenyeo, other Jeju citizens, and individuals from Seoul. I generated genomic data for each participant with low-coverage sequencing and imputation using the Korea1K Project. With this dataset, I can infer ancestry, population history, and potential loci under selection that might underlie an adaptation to diving. We hope to compare these results with other free-diving populations in Asia.
 
