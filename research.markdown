@@ -20,6 +20,14 @@ permalink: /research/
 Populations of puma *Puma concolor* a native feline from the Americas are suffering from genomic inbreeding and small population sizes. Humans have reduced their habitats and isolated the populations. Particularly, a population in Big Cypress National Preserve in Florida was very affected. In 1995, eight pumas from Texas were introduced to the population with the purpose of genomic rescue. I am interesed in understanding how successful the rescue was. Is the local genetic diversity from Big Cypress preserved? Is selection helping preserve variation from a specific ancestry in different parts of the genome?
 
 
+**Genomic adaptation to free diving in the Haenyeo**
+<img src="/figures/haenyeo.jpg" alt="Haenyeo" style="float:left;padding-left:25px;padding-right:25px;width:250px">
+
+When an activity is strenuous and essential for a population’s survival, selection might shape genomic adaptation to this type of livelihood. The Haenyeo are female divers from Jeju Island in South Korea that have been diving to harvest sea products for centuries without scuba gear. We hypothesized that selection might have allowed the Haenyeo to adapt to a lifestyle of free diving. In collaboration with Dr. Joo-Young Lee from Seoul National University, we took physiological measurements from the Haenyeo, other Jeju citizens, and individuals from Seoul. I generated genomic data for each participant with low-coverage sequencing and imputation using the Korea1K Project. With this dataset, I can infer ancestry, population history, and potential loci under selection that might underlie an adaptation to diving. We hope to compare these results with other free-diving populations in Asia.
+
+
+#### **Previous research**
+
 **Lizard adaptation genomics**
 
 <img src="/figures/lizarddrawing.jpg" alt="Solarte Oophaga pumilio" style="float:right;padding-left:25px;padding-right:25px;width:250px">
@@ -28,12 +36,6 @@ I do populations genetics of the multicolor toad-headed lizard (*Phrynochephalus
 - [ Population genomics of variegated toad-headed lizard Phrynocephalus versicolor and its adaptation to the colorful sand of the Gobi Desert](/files/publications/2022Phrynocephalus.pdf)
 <br><br>
 
-**Genomic adaptation to free diving in the Haenyeo**
-
-When an activity is strenuous and essential for a population’s survival, selection might shape genomic adaptation to this type of livelihood. The Haenyeo are female divers from Jeju Island in South Korea that have been diving to harvest sea products for centuries without scuba gear. We hypothesized that selection might have allowed the Haenyeo to adapt to a lifestyle of free diving. In collaboration with Dr. Joo-Young Lee from Seoul National University, we took physiological measurements from the Haenyeo, other Jeju citizens, and individuals from Seoul. I generated genomic data for each participant with low-coverage sequencing and imputation using the Korea1K Project. With this dataset, I can infer ancestry, population history, and potential loci under selection that might underlie an adaptation to diving. We hope to compare these results with other free-diving populations in Asia.
-
-
-#### **Previous research**
 
 **Microfluidics and transcriptional memory**
 
