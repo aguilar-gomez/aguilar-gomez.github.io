@@ -37,11 +37,11 @@ header_pages:
   - title: about
     url: /
     weight: 1
-  - title: reserach
-    url: /about/
+  - title: research
+    url: /research/
     weight: 2
   - title: publications
-    url: /cv/
+    url: /publications/
     weight: 3
   - title: cv
     url: /cv/

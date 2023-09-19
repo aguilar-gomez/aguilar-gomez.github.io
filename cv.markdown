@@ -4,4 +4,4 @@ title: cv
 permalink: /cv/
 ---
 
-[Here is the most updated version of my CV](/files/CVDianaAguilarGomez.pdf).
+<iframe src="/files/CVDianaAguilarGomez.pdf" width="100%" height="800px"></iframe>
