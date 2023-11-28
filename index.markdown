@@ -10,7 +10,7 @@ title: about
 
 [Here is the most updated version of my CV](/files/CVDianaAguilarGomez.pdf).
 
-<img src="/figures/DianaLA.jpg" style="float:right;padding-right:25px;width:350px">
+<img src="/figures/DianaLA.jpeg" style="float:right;padding-right:25px;width:350px">
 I am a [Chancellor's Postdoctoral Fellow](https://www.chicano.ucla.edu/research/hsi-ucla-chancellors-postdoctoral-fellows) at UCLA Department of Ecology and Evolutionary Biology. I am working with [Kirk Lohmueller](https://lohmueller.eeb.ucla.edu/) in several conservation genomics projects: 
   1. Modeling TEs in populations of concern applied to Channel Island foxes (*Urocyon littoralis*) 
   2. Assesing survival of the Rice’s whale (*Balaenoptera ricei*) 
