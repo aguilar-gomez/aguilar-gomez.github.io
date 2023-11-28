@@ -10,14 +10,15 @@ title: about
 
 [Here is the most updated version of my CV](/files/CVDianaAguilarGomez.pdf).
 
-<img src="/figures/Diana_Headshot_AVL_6054.jpg" style="float:right;padding-right:25px;width:350px">
-I am a Postdoc at UCLA Department of Ecology and Evolutionary Biology. I am working with [Kirk Lohmueller](https://lohmueller.eeb.ucla.edu/) modeling SVs and TEs in populations of concern.
+<img src="/figures/DianaLA.jpg" style="float:right;padding-right:25px;width:350px">
+I am a [Chancellor's Postdoctoral Fellow](https://www.chicano.ucla.edu/research/hsi-ucla-chancellors-postdoctoral-fellows) at UCLA Department of Ecology and Evolutionary Biology. I am working with [Kirk Lohmueller](https://lohmueller.eeb.ucla.edu/) in several conservation genomics projects. 
+  1. Modeling TEs in populations of concern applied to Channel Island foxes
+  2. Assesing survival of the Rice’s whale
+  3. Evaluating the genomic rescue in Florida Panthers
 
 I got my [Computational Biology PhD](https://ccb.berkeley.edu/academics/phd-in-computational-biology/) at UC Berkeley,under the supervision of [Rasmus Nielsen](https://nielsen-lab.github.io/research/). I have a bachelor’s degree in Genomic Science from the National Autonomous University of Mexico (UNAM). My main research interests are adaptation and conservation genomics. 
 
-For my PhD, my first two chapters were about the genetic basis and evolution of color polymorphism. I am particularly working with the toad-headed lizard (*Phrynocephalus versicolor*) from China and the strawberry poison frog (*Oophaga pumilio*) from Panama. My third chapter is about adaptation to free diving in the Haenyeo population. 
+For my PhD, my first two chapters were about the genetic basis and evolution of color polymorphism. I worked with the toad-headed lizard (*Phrynocephalus versicolor*) from China and the strawberry poison frog (*Oophaga pumilio*) from Central America. My third chapter is about adaptation to free diving in the Haenyeo population from Jeju, Korea. 
 
 
-#### Where have I been?
-I am from Mexico City, I was born and raised there. Spanish is my Native Language. My childhood weekends were spent in Puebla, the state where my mother's family is originary. Puebla has a special place in my heart and not only because the food there is awesome. I studied my undergrad for three years in Cuernavaca, Mexico, and one year in Munich, Germany. After Munich, I moved straight to Berkeley to start my Ph.D. I have lived in California since 2017.
 
