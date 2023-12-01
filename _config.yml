@@ -33,6 +33,19 @@ plugins:
   - jekyll-feed
 
 
+header_pages:
+  - title: about
+    url: /
+    weight: 1
+  - title: reserach
+    url: /about/
+    weight: 2
+  - title: publications
+    url: /cv/
+    weight: 3
+  - title: cv
+    url: /cv/
+    weight: 4
 
 # Exclude from processing.
 # The following items will not be processed, by default.
