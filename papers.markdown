@@ -8,7 +8,7 @@ permalink: /papers/
 Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
 
 <span style="font-size: smaller; color: #3b3e3f;">Linderoth, Tyler , **Diana Aguilar-Gómez**, Emily White, Evan Twomey, Adam Stuckert, Ke Bi, Amy Ko, Natalie Graham, Joana L. Rocha, Jason Chang, Matthew D. MacManes, Kyle Summers, Rasmus Nielsen
-*bioRXiv 2023*.[PDF](/files/publications/2023Rimitatorpreprint.pdf)</span>
+*bioRXiv 2023*. [PDF](/files/publications/2023Rimitatorpreprint.pdf)</span>
 
 -------------------------------------------------------
 ### 2022
@@ -66,6 +66,6 @@ Male mutation bias is the main force shaping chromosomal substitution rates in m
 
 Histone propionylation is a novel mark of active chromatin
 
-<span style="font-size: smaller; color: #3b3e3f;">Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. *Nature Structural & Molecular Biology 2017*.[PDF](/files/publications/2017PropionylationRSchneider.pdf)</span>
+<span style="font-size: smaller; color: #3b3e3f;">Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/2017PropionylationRSchneider.pdf)</span>
 
 [jekyll-organization]: https://github.com/jekyll
