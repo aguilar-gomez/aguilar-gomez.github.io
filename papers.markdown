@@ -3,7 +3,12 @@ layout: post
 title: papers 
 permalink: /papers/
 ---
-
+-------------------------------------------------------
+## 2023
+*preprint*
+#### Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
+Linderoth, Tyler , **Diana Aguilar-Gómez**, Emily White, Evan Twomey, Adam Stuckert, Ke Bi, Amy Ko, Natalie Graham, Joana L. Rocha, Jason Chang, Matthew D. MacManes, Kyle Summers, Rasmus Nielsen
+*bioRXiv*[https://www.biorxiv.org/content/biorxiv/early/2023/04/21/2023.04.20.537757.full.pdf]
 -------------------------------------------------------
 ## 2022
 
