@@ -1,7 +1,7 @@
 ---
 layout: post
-title: papers 
-permalink: /papers/
+title: publications
+permalink: /publications/
 ---
 -------------------------------------------------------
 ### 2023
