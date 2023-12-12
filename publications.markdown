@@ -3,6 +3,9 @@ layout: post
 title: publications
 permalink: /publications/
 ---
+
+[Google scholar](https://scholar.google.com/citations?user=IvS5ON0AAAAJ&hl)
+
 -------------------------------------------------------
 ### 2023
 Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
