@@ -21,7 +21,7 @@ Rice's whale (*Balaenoptera ricei*) is a recently identified species of baleen w
 
 **Evaluating the genomic rescue in Florida Panthers**
 
-<img src="/figures/blackPuma.png" alt="Dalle generated puma" style="float:left;padding-left:25px;padding-right:25px;width:330px">
+<img src="/figures/blackPuma.png" alt="Dalle generated puma" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
 Populations of puma *Puma concolor* a native feline from the Americas are suffering from genomic inbreeding and small population sizes. Humans have reduced their habitats and isolated the populations. Particularly, a population in Big Cypress National Preserve in Florida was very affected. In 1995, eight pumas from Texas were introduced to the population with the purpose of genomic rescue. I am interesed in understanding how successful the rescue was. Is the local genetic diversity from Big Cypress preserved? Is selection helping preserve variation from a specific ancestry in different parts of the genome?
 
@@ -36,7 +36,7 @@ When an activity is strenuous and essential for a population’s survival, selec
 
 **Lizard adaptation genomics**  
 
-<img src="/figures/lizarddrawing.jpg" alt="Solarte Oophaga pumilio" style="float:right;padding-left:25px;padding-right:25px;width:250px">
+<img src="/figures/lizarddrawing.jpg" alt="Solarte Oophaga pumilio" style="float:right;padding-left:25px;padding-right:25px;width:350px">
 
 I do populations genetics of the multicolor toad-headed lizard (*Phrynochephalus versicolor*). This lizard is originary from the Gobi Desert in China and Mongolia. There are different populations that vary in how much pigment they have in their skin. Most of the populations have light brown/yellow skin, same color as the sand they live in. There is a population that is black, matching the black sand of the region where it lives. I study the genetic basis of this adaptation. 
 - [ Population genomics of variegated toad-headed lizard Phrynocephalus versicolor and its adaptation to the colorful sand of the Gobi Desert](/files/publications/2022Phrynocephalus.pdf)
