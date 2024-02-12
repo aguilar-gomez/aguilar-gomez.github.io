@@ -60,4 +60,6 @@ My first bioinformatics and fieldwork experiences were with [Diego Cortez](https
 
 - [Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals](/files/publications/2017MaleMutationBiasDCortez.pdf) 
 
+- [Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes](/files/publications/2019Basilliscus.pdf) 
+
 [jekyll-organization]: https://github.com/jekyll
