@@ -57,7 +57,7 @@ During my undergrad I had the opportunity to work with [Robert Schneider](https:
 **Evolution of sex chromosomes**
 
 
-<img src="/figures/Basiliscus5_machoD" alt="ying yang lizard" style="float:left;padding-left:25px;padding-right:25px;width:350px">
+<img src="/figures/Basiliscus5_machoD.png" alt="ying yang lizard" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
 My first bioinformatics and fieldwork experiences were with [Diego Cortez](https://www.ccg.unam.mx/en/diego-cortez-quezada/). In fact, I was his first student ever. One of the projects that I worked on was testing male mutation bias in monotremes (mammals that lay eggs like the platypus). Comparing mutation rates at autosomal versus sex chromosomes we estimated whether there was male mutation bias. The X, Y, and autosomes spend different proportions of time in each germline, and since the male germline (sperm) replicates a lot more, there is more room for generating mutations. We tested whether the bias existed in this particular system (venom-producing, egg-laying mammal, 5 pairs of sex chromosomes).
 
