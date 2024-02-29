@@ -11,7 +11,7 @@ permalink: /publications/
 Prevalent role of homologous recombination in the repair of specific double-strand breaks in *Rhizobium etli*
 
 <span style="font-size: smaller; color: #3b3e3f;">Yáñez-Cuna, Fares Osam, **Diana Aguilar-Gómez**, Araceli Dávalos, and David Romero
-*Frontiers in Microbiology 2024*. [PDF](/files/publications/2024DSBrepair)</span>
+*Frontiers in Microbiology 2024*. [PDF](/files/publications/2024DSBrepair.pdf)</span>
 
 -------------------------------------------------------
 ### 2023
