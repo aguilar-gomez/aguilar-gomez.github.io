@@ -7,6 +7,13 @@ permalink: /publications/
 [Google scholar](https://scholar.google.com/citations?user=IvS5ON0AAAAJ&hl)
 
 -------------------------------------------------------
+### 2024
+Prevalent role of homologous recombination in the repair of specific double-strand breaks in *Rhizobium etli*
+
+<span style="font-size: smaller; color: #3b3e3f;">Yáñez-Cuna, Fares Osam, **Diana Aguilar-Gómez**, Araceli Dávalos, and David Romero
+*Frontiers in Microbiology 2024*. [PDF](/files/publications/2024DSBrepair)</span>
+
+-------------------------------------------------------
 ### 2023
 Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
 
