@@ -11,12 +11,14 @@ permalink: /projects/
     display: inline-block;
     border-radius: 50%;
     overflow: hidden;
+    width: 100%;
+    height: auto;
   }
 
   .image-hover-container img {
     transition: all 0.3s ease-in-out;
-    width: 250px;
-    height: 250px;
+    width: 100%;
+    height: auto;
     border-radius: 50%;
   }
 
@@ -38,6 +40,25 @@ permalink: /projects/
 
   .image-hover-container:hover .hover-text {
     opacity: 1;
+  }
+
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .image-gallery a {
+    flex: 1 1 calc(33.333% - 20px); /* Three columns with some space between */
+    margin: 10px;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 768px) {
+    .image-gallery a {
+      flex: 1 1 100%; /* Single column on smaller screens */
+      margin: 10px 0;
+    }
   }
 </style>
 
