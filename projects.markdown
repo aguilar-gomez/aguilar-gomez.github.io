@@ -64,19 +64,19 @@ permalink: /projects/
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://aguilar-gomez.github.io/whales/">
-    <div class="image-hover-container">
+     <div class="image-hover-container">
       <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing">
       <div class="hover-text">Understanding the demography of the critically endangered Rice's whale</div>
     </div>
   </a>
   <a href="https://aguilar-gomez.github.io/pumas/">
-    <div class="image-hover-container">
+     <div class="image-hover-container">
       <img src="/figures/greenPuma.png" alt="Dalle generated puma">
       <div class="hover-text">Evaluating the genomic rescue in Florida Panthers</div>
     </div>
   </a>
   <a href="https://aguilar-gomez.github.io/haenyeo/">
-    <div class="image-hover-container">
+     <div class="image-hover-container">
       <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
       <div class="hover-text">Genomic adaptation to free diving in the Haenyeo</div>
     </div>
@@ -88,7 +88,7 @@ permalink: /projects/
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://aguilar-gomez.github.io/pumilio/">
-  <div class="image-hover-container">
+    <div class="image-hover-container">
     <img src="/figures/pumilioCircle.png" alt="Solarte Oophaga pumilio">
       <div class="hover-text">Color genomics of the strawberry poison frog in Bocas del Toro</div>
     </div>
@@ -99,14 +99,13 @@ permalink: /projects/
     <div class="hover-text">Evolution of sex chromosomes</div>
     </div>
   </a>
-</div>
   <a href="https://aguilar-gomez.github.io/phrynocephalus/">
-<div class="image-hover-container">
- <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard">
-  <div class="hover-text">Lizard adaptation genomics</div>
+     <div class="image-hover-container">
+    <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard">
+    <div class="hover-text">Lizard adaptation genomics</div>
     </div>
-  </a>
-
+   </a>
+</div>
 
 <div style="display: flex; justify-content: space-between;">
 <a href="https://aguilar-gomez.github.io/microfluidics/">
