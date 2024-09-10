@@ -110,7 +110,10 @@ permalink: /projects/
 
 <div style="display: flex; justify-content: space-between;">
 <a href="https://aguilar-gomez.github.io/microfluidics/">
+    <div class="image-hover-container">
    <img src="/figures/microfluidicsCircle.png" alt="Microfluidics" style="float:left;padding-left:25px;padding-right:25px;width:250px"> 
+   <div class="hover-text">Microfluidics and transcriptional memory in yeast</div>
+    </div>
 </a>
 </div>
 
