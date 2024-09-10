@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Rice's whales
-permalink: /whales/
+title: Evolution of sex chromosomes*
+permalink: /basiliscus/
 ---
 
-<h4 style="text-align: center;">
-  Undertanding the demographic history of the critically endangered Rice's whale
-</h4>
+<img src="/figures/Basiliscus5_machoDCircle.png" alt="ying yang lizard" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
-<img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing" style="float:left;padding-left:25px;padding-right:25px;width:350px">
+My first bioinformatics and fieldwork experiences were with [Diego Cortez](https://www.ccg.unam.mx/en/diego-cortez-quezada/). In fact, I was his first student ever. One of the projects that I worked on was testing male mutation bias in monotremes (mammals that lay eggs like the platypus). Comparing mutation rates at autosomal versus sex chromosomes we estimated whether there was male mutation bias. The X, Y, and autosomes spend different proportions of time in each germline, and since the male germline (sperm) replicates a lot more, there is more room for generating mutations. We tested whether the bias existed in this particular system (venom-producing, egg-laying mammal, 5 pairs of sex chromosomes).
 
-Rice's whale (*Balaenoptera ricei*) is a recently identified species of baleen whale. These whales inhabit the Gulf of Mexico and were officially described in 2021. Despite their recent discovery, Rice's whales are already facing conservation concerns. The Gulf of Mexico is a region characterized by extensive human activities, including shipping, oil and gas extraction, and fishing, which pose threats to the whales through potential collisions with vessels, habitat degradation, and entanglement in fishing gear. Given their limited population size and restricted habitat range, Rice's whales are particularly vulnerable to these anthropogenic pressures. Conservation efforts are essential to mitigate these threats and safeguard the survival of this newly identified species. Through genetic studies, we aim to gain a deeper understanding of Rice's whales, unraveling insights that can inform effective conservation strategies. Our research endeavors are focused on assessing the genetic diversity within their population, with the ultimate goal of demonstrating their capacity for recovery when appropriate conservation measures are implemented. By delving into their genetic makeup, we aspire to provide compelling evidence that underscores the resilience and adaptability of Rice's whales, offering a scientific foundation for targeted and sustainable conservation efforts. 
+- [Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals](/files/publications/2017MaleMutationBiasDCortez.pdf) 
+
+Another project I participated was in basilisks from the Yucatan peninsula. We found a new XY sex chromosome system in this family:
+
+- [Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes](/files/publications/2019Basilliscus.pdf) 
+
 
 
