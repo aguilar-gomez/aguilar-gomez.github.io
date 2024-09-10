@@ -5,6 +5,62 @@ permalink: /projects/
 ---
 
 #### **Ongoing projects**
+<style>
+  .image-hover-container {
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .image-hover-container img {
+    transition: all 0.3s ease-in-out;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
+
+  .image-hover-container:hover img {
+    filter: blur(2px);
+  }
+
+  .hover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .image-hover-container:hover .hover-text {
+    opacity: 1;
+  }
+</style>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://aguilar-gomez.github.io/whales/">
+    <div class="image-hover-container">
+      <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing">
+      <div class="hover-text">Learn More About Whales</div>
+    </div>
+  </a>
+  <a href="https://aguilar-gomez.github.io/pumas/">
+    <div class="image-hover-container">
+      <img src="/figures/blackPumaCircle.png" alt="Dalle generated puma">
+      <div class="hover-text">Explore Puma Insights</div>
+    </div>
+  </a>
+  <a href="https://aguilar-gomez.github.io/haenyeo/">
+    <div class="image-hover-container">
+      <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
+      <div class="hover-text">Discover Haenyeo</div>
+    </div>
+  </a>
+</div>
 
 
 <style>
