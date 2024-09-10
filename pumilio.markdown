@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strawberry poision frog genomics
-permalink: /whales/
+permalink: /pumilio/
 ---
 
 <h4 style="text-align: center;">
