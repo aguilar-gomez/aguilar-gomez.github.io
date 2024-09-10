@@ -22,7 +22,7 @@ permalink: /projects/
 #### **Previous projects**
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://aguilar-gomez.github.io/whales/">
+  <a href="https://aguilar-gomez.github.io/pumilio/">
     <img src="/figures/pumilioCircle.png" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:250px">
   </a>
   <a href="https://aguilar-gomez.github.io/whales/">
