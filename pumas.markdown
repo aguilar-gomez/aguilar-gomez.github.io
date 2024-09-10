@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Florida Panthers
+title: Evaluating the genomic rescue in Florida Panthers
 permalink: /pumas/
 ---
 
-<h4 style="text-align: center;">
-  Evaluating the genomic rescue in Florida Panthers
-</h4>
 
 <img src="/figures/blackPumaCircle.png" alt="Dalle generated puma" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
