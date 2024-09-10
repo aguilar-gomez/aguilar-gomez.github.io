@@ -45,7 +45,7 @@ permalink: /projects/
   <a href="https://aguilar-gomez.github.io/whales/">
     <div class="image-hover-container">
       <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing">
-      <div class="hover-text">Learn More About Rice's Whales</div>
+      <div class="hover-text">Undertanding the demographic history of the critically endangered Rice's whale</div>
     </div>
   </a>
   <a href="https://aguilar-gomez.github.io/pumas/">
