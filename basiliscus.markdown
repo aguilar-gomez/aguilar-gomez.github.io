@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolution of sex chromosomes*
+title: Evolution of sex chromosomes
 permalink: /basiliscus/
 ---
 
