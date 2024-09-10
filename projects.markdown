@@ -11,15 +11,16 @@ permalink: /projects/
     display: inline-block;
     border-radius: 50%;
     overflow: hidden;
-    width: 100%;
-    height: auto;
+    width: 250px; /* Set a fixed width */
+    height: 250px; /* Set a fixed height to make sure it's a perfect circle */
   }
 
   .image-hover-container img {
     transition: all 0.3s ease-in-out;
     width: 100%;
-    height: auto;
+    height: 100%; /* Ensures the image fills the container and stays circular */
     border-radius: 50%;
+    object-fit: cover; /* Ensures the image scales properly inside the circle */
   }
 
   .image-hover-container:hover img {
@@ -49,14 +50,14 @@ permalink: /projects/
   }
 
   .image-gallery a {
-    flex: 1 1 calc(33.333% - 20px); /* Three columns with some space between */
+    flex: 1 1 calc(33.333% - 20px);
     margin: 10px;
     box-sizing: border-box;
   }
 
   @media (max-width: 768px) {
     .image-gallery a {
-      flex: 1 1 100%; /* Single column on smaller screens */
+      flex: 1 1 100%;
       margin: 10px 0;
     }
   }
