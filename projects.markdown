@@ -57,7 +57,7 @@ permalink: /projects/
   <a href="https://aguilar-gomez.github.io/haenyeo/">
     <div class="image-hover-container">
       <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
-      <div class="hover-text">Learn About the Haenyeo and their genetics </div>
+      <div class="hover-text">Genomic adaptation to free diving in the Haenyeo</div>
     </div>
   </a>
 </div>
