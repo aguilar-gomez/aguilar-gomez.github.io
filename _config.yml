@@ -34,19 +34,12 @@ plugins:
   - jekyll-feed
 
 
-#header_pages:
-#  - title: about
- #   url: /
-  #  weight: 1
-  #- title: research
-   # url: /research/
-   # weight: 2
-  #- title: publications
-   # url: /publications/
-    #weight: 3
-  #- title: cv
-  #  url: /cv/
-   # weight: 4
+header_pages:
+  - index.markdown
+  - research.markdown
+  - publications.markdown
+  - cv.markdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
