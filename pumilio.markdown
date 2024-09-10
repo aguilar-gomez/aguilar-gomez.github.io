@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Strawberry poision frog genomics
+title: Color genomics of the strawberry poison frog in Bocas del Toro
 permalink: /pumilio/
 ---
-
-<h4 style="text-align: center;">
-  Color genomics of the strawberry poison frog in Bocas del Toro
-</h4>
 
 <img src="/figures/pumilioCircle.png" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
