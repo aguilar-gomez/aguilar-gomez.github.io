@@ -45,46 +45,24 @@ permalink: /projects/
   <a href="https://aguilar-gomez.github.io/whales/">
     <div class="image-hover-container">
       <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing">
-      <div class="hover-text">Learn More About Whales</div>
+      <div class="hover-text">Learn More About Rice's Whales</div>
     </div>
   </a>
   <a href="https://aguilar-gomez.github.io/pumas/">
     <div class="image-hover-container">
       <img src="/figures/blackPumaCircle.png" alt="Dalle generated puma">
-      <div class="hover-text">Explore Puma Insights</div>
+      <div class="hover-text">Explore Succesful Genetic Rescue in Pumas</div>
     </div>
   </a>
   <a href="https://aguilar-gomez.github.io/haenyeo/">
     <div class="image-hover-container">
       <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
-      <div class="hover-text">Discover Haenyeo</div>
+      <div class="hover-text">Learn About the Haenyeo and their genetics </div>
     </div>
   </a>
 </div>
 
 
-<style>
-  .image-hover-effect img {
-    transition: all 0.3s ease-in-out;
-  }
-
-  .image-hover-effect img:hover {
-    filter: blur(2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-  }
-</style>
-
-<div class="image-hover-effect" style="display: flex; justify-content: space-between;">
-  <a href="https://aguilar-gomez.github.io/whales/">
-    <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing" style="padding-left:25px;padding-right:25px;width:250px;">
-  </a>
-  <a href="https://aguilar-gomez.github.io/pumas/">
-    <img src="/figures/blackPumaCircle.png" alt="Dalle generated puma" style="padding-left:25px;padding-right:25px;width:250px;">
-  </a>
-  <a href="https://aguilar-gomez.github.io/haenyeo/">
-    <img src="/figures/haenyeoCircle.png" alt="Haenyeo" style="padding-left:25px;padding-right:25px;width:250px;">
-  </a>
-</div>
 #### **Previous projects**
 
 <div style="display: flex; justify-content: space-between;">
