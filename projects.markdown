@@ -51,7 +51,7 @@ permalink: /projects/
   <a href="https://aguilar-gomez.github.io/pumas/">
     <div class="image-hover-container">
       <img src="/figures/blackPumaCircle.png" alt="Dalle generated puma">
-      <div class="hover-text">Explore Succesful Genetic Rescue in Pumas</div>
+      <div class="hover-text">Evaluating the genomic rescue in Florida Panthers</div>
     </div>
   </a>
   <a href="https://aguilar-gomez.github.io/haenyeo/">
