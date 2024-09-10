@@ -82,7 +82,7 @@ permalink: /projects/
     </div>
   </a>
 </div>
-------------------------------------------------------------------------------------------
+
 
 #### **Previous projects**
 
@@ -107,7 +107,7 @@ permalink: /projects/
     </div>
   </a>
 
-------------------------------------------------------------------------------------------
+
 <div style="display: flex; justify-content: space-between;">
 <a href="https://aguilar-gomez.github.io/microfluidics/">
     <div class="image-hover-container">
