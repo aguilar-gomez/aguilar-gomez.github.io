@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toad headed agama
+title: Lizard adaptation genomics
 permalink: /phrynocephalus/
 ---
 
