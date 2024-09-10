@@ -1,5 +1,7 @@
 ---
 title: projects 
+layout: post
+permalink: /projects/
 ---
 
 #### **Ongoing projects**
