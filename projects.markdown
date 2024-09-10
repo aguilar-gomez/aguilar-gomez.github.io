@@ -21,7 +21,7 @@ permalink: /projects/
   }
 
   .image-hover-container:hover img {
-    filter: blur(2px);
+    filter: blur(3px);
   }
 
   .hover-text {
