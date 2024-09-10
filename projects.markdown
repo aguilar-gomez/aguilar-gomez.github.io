@@ -73,10 +73,16 @@ permalink: /projects/
     </div>
   </a> 
   <a href="https://aguilar-gomez.github.io/phrynocephalus/">
+<div class="image-hover-container">
  <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard" style="float:left;padding-left:25px;padding-right:25px;width:250px">
+  <div class="hover-text">Lizard adaptation genomics</div>
+    </div>
   </a>
   <a href="https://aguilar-gomez.github.io/basiliscus/">
+    <div class="image-hover-container">
    <img src="/figures/Basiliscus5_machoDCircle.png" alt="Basiliscus" style="float:left;padding-left:25px;padding-right:25px;width:250px">
+    <div class="hover-text">Evolution of sex chromosomes</div>
+    </div>
   </a>
 </div>
 
