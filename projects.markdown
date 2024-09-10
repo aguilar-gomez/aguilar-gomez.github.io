@@ -8,7 +8,7 @@ permalink: /projects/
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing" style="padding-left:25px;padding-right:25px;width:250px;">
+  [<img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing" style="padding-left:25px;padding-right:25px;width:250px;"](https://aguilar-gomez.github.io/whales/)
   <img src="/figures/blackPumaCircle.png" alt="Dalle generated puma" style="padding-left:25px;padding-right:25px;width:250px;">
   <img src="/figures/haenyeoCircle.png" alt="Haenyeo" style="padding-left:25px;padding-right:25px;width:250px">
 </div>
