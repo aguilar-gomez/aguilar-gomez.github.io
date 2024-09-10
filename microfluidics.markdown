@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Microfluidics
+title: Microfluidics and transcriptional memory in yeast
 permalink: /microfluidics/
 ---
-
-
-**Microfluidics and transcriptional memory**
 
 <img src="/figures/microfluidicsCircle.png" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
