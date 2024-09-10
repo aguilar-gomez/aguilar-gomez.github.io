@@ -32,12 +32,12 @@ permalink: /projects/
    <img src="/figures/Basiliscus5_machoDCircle.png" alt="Basiliscus" style="float:left;padding-left:25px;padding-right:25px;width:250px">
   </a>
 </div>
+
+
 <div style="display: flex; justify-content: space-between;">
-
-
-
+<a href="https://aguilar-gomez.github.io/microfluidics/">
+   <img src="/figures/microfluidicsCircle.png" alt="Microfluidics" style="float:left;padding-left:25px;padding-right:25px;width:250px">
 </div>
-<img src="/figures/microfluidicsCircle.png" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:250px">
 
 
 
