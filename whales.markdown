@@ -5,7 +5,7 @@ permalink: /whales/
 ---
 
 <h4 style="text-align: center;">
-  Undertanding the demographic history of the critically endangered Rice's whale
+  Understanding the demographic history of the critically endangered Rice's whale
 </h4>
 
 <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing" style="float:left;padding-left:25px;padding-right:25px;width:350px">
