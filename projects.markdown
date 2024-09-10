@@ -7,7 +7,18 @@ permalink: /projects/
 #### **Ongoing projects**
 
 
-<div style="display: flex; justify-content: space-between;">
+<style>
+  .image-hover-effect img {
+    transition: all 0.3s ease-in-out;
+  }
+
+  .image-hover-effect img:hover {
+    filter: blur(2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+<div class="image-hover-effect" style="display: flex; justify-content: space-between;">
   <a href="https://aguilar-gomez.github.io/whales/">
     <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing" style="padding-left:25px;padding-right:25px;width:250px;">
   </a>
@@ -18,7 +29,6 @@ permalink: /projects/
     <img src="/figures/haenyeoCircle.png" alt="Haenyeo" style="padding-left:25px;padding-right:25px;width:250px;">
   </a>
 </div>
-
 #### **Previous projects**
 
 <div style="display: flex; justify-content: space-between;">
