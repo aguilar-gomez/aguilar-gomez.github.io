@@ -93,12 +93,6 @@ permalink: /projects/
       <div class="hover-text">Color genomics of the strawberry poison frog in Bocas del Toro</div>
     </div>
   </a> 
-  <a href="https://aguilar-gomez.github.io/phrynocephalus/">
-<div class="image-hover-container">
- <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard">
-  <div class="hover-text">Lizard adaptation genomics</div>
-    </div>
-  </a>
   <a href="https://aguilar-gomez.github.io/basiliscus/">
     <div class="image-hover-container">
    <img src="/figures/Basiliscus5_machoDCircle.png" alt="Basiliscus">
@@ -106,6 +100,12 @@ permalink: /projects/
     </div>
   </a>
 </div>
+  <a href="https://aguilar-gomez.github.io/phrynocephalus/">
+<div class="image-hover-container">
+ <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard">
+  <div class="hover-text">Lizard adaptation genomics</div>
+    </div>
+  </a>
 
 ------------------------------------------------------------------------------------------
 <div style="display: flex; justify-content: space-between;">
