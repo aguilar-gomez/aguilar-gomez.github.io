@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Haenyeo
+title: Genomic adaptation to free diving in the Haenyeo
 permalink: /haenyeo/
 ---
-
-<h4 style="text-align: center;">
-  Genomic adaptation to free diving in the Haenyeo
-</h4>
 
 <img src="/figures/haenyeoCircle.png" alt="Haenyeo" style="float:left;padding-left:25px;padding-right:25px;width:350px">
 
