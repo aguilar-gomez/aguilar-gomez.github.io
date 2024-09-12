@@ -7,15 +7,15 @@ permalink: /projects/
 
 Adaptation is the foundation of evolution and all biology. By uncovering the genetic mechanisms underlying environmental and behavioral adaptation, we gain insight into how species evolve and survive. During my PhD, I have applied population genetic methods to various organisms with unique physiological and phenotypic adaptations. My research focuses on how natural selection shapes diverse traits and preserves genetic diversity across vertebrates.
 
-### <span style="color:#65ba77;">Color  adaptation</span> 
+### <span style="color:#65ba77;">Color  Adaptation</span> 
 ---------------------------------------------------------------------------
 One of my areas of study is the genetics of color adaptation in different species. I have worked with fascinating organisms such as the toad-headed agama, strawberry poison frog, and mimic poison frog to understand how they adapt to their environments through color variation.
 
-### <span style="color:#2fa2d4;">Physiological adaptation</span> 
+### <span style="color:#2fa2d4;">Physiological Adaptation</span> 
 ---------------------------------------------------------------------------
 I have also explored physiological adaptation in humans, particularly in the Haenyeo, a community of free-diving women in Korea. Our research sought to identify the genes responsible for their remarkable ability to adapt to the physical demands of diving.
 
-### <span style="color:#a874c2;">Conservation genetics and adaptation to the antropocene</span> 
+### <span style="color:#a874c2;">Conservation Genetics and Adaptation to the Anthropocene</span> 
 ---------------------------------------------------------------------------
 As human-driven environmental change accelerates, understanding adaptation becomes critical for conservation. Genomic resources can provide essential tools to assess population health and predict the risk of endangerment. This is especially important for amphibians, which are currently the most threatened group of vertebrates. My work also extends to mammals, where I am involved in conservation genetics projects on species such as pumas, Rice’s whales, and Channel Island foxes.
 
@@ -23,7 +23,7 @@ As human-driven environmental change accelerates, understanding adaptation becom
 ### <span style="color:#ca64cc;">Projects</span>
 ---------------------------------------------------------------------------
 **Click on the circle to learn more about each project!**
-#### Ongoing projects
+#### Ongoing Projects
 <style>
   .image-hover-container {
     position: relative;
@@ -104,7 +104,7 @@ As human-driven environmental change accelerates, understanding adaptation becom
 </div>
 
 
-#### Previous projects
+#### Previous Projects
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://aguilar-gomez.github.io/pumilio/">
