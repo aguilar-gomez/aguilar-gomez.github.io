@@ -128,18 +128,6 @@ Adaptation might also help us predict how species respond to climate change or h
    <div class="hover-text">Microfluidics and transcriptional memory in yeast</div>
     </div>
 </a>
-  <a href="https://aguilar-gomez.github.io/microfluidics/">
-    <div class="image-hover-container">
-   <img src="/figures/microfluidicsCircle.png" alt="Microfluidics"> 
-   <div class="hover-text">Microfluidics and transcriptional memory in yeast</div>
-    </div>
-</a>
-  <a href="https://aguilar-gomez.github.io/microfluidics/">
-    <div class="image-hover-container">
-   <img src="/figures/microfluidicsCircle.png" alt="Microfluidics"> 
-   <div class="hover-text">Microfluidics and transcriptional memory in yeast</div>
-    </div>
-</a>
 </div>
 
 
