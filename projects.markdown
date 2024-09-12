@@ -3,7 +3,7 @@ title: projects
 layout: post
 permalink: /projects/
 ---
-## Adaptation and Conservation Genomics
+## <span style="color:#0f962c;">Project Title</span> Adaptation and Conservation Genomics
 
 Adaptation is the foundation of evolution and all biology. Understanding the genetic basis of environmental and behavioral adaption gives us insight into how species evolve. During my PhD I applied population genetic methods to various organisms with physiological and phenotypic adaptations. I am interested in how selection shapes different traits and preserves diversity across vertebrates. 
 
