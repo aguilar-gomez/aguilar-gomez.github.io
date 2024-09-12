@@ -20,7 +20,7 @@ Additionally, I have also studied adaptation in a human population in Korea, the
 Adaptation might also help us predict how species respond to climate change or habitat reduction. Genomic resources can be generated as a tool to assess the state of a population and predict endangerment risk. This is particularly relevant for amphibians, the most threatened vertebrate group. I am also interested and currently working with mammals. Some of the projects I have been working on include pumas, Rice's whales and Channel Island foxes. 
 
 
-### Projects
+### <span style="color:#ca64cc;">Projects</span>
 ---------------------------------------------------------------------------
 **Click on the circle to learn more about each project!**
 #### Ongoing projects
