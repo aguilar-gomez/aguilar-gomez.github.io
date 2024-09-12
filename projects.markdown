@@ -3,19 +3,19 @@ title: projects
 layout: post
 permalink: /projects/
 ---
-## <span style="color:#0f962c;">Project Title</span> Adaptation and Conservation Genomics
+## <span style="color:#0f962c;">Adaptation and Conservation Genomics</span> 
 
 Adaptation is the foundation of evolution and all biology. Understanding the genetic basis of environmental and behavioral adaption gives us insight into how species evolve. During my PhD I applied population genetic methods to various organisms with physiological and phenotypic adaptations. I am interested in how selection shapes different traits and preserves diversity across vertebrates. 
 
-### Color  adaptation
+### <span style="color:#65ba77;">Color  adaptation</span> 
 ---------------------------------------------------------------------------
 In particular, I have studied the genetics of color adaptation in several organisms, such as the toad-headed agama, the strawberry poison frog and mimic poison frog. 
 
-### Physiological adaptation
+### <span style="color:#2fa2d4;">Physiological adaptation</span> 
 ---------------------------------------------------------------------------
 Additionally, I have also studied adaptation in a human population in Korea, the Haenyeo. We were interested in finding genes responsible for the physiological adaption to free diving in this population. 
 
-### Conservation genetics and adaptation to the antropocene
+### <span style="color:#a874c2;">Conservation genetics and adaptation to the antropocene</span> 
 ---------------------------------------------------------------------------
 Adaptation might also help us predict how species respond to climate change or habitat reduction. Genomic resources can be generated as a tool to assess the state of a population and predict endangerment risk. This is particularly relevant for amphibians, the most threatened vertebrate group. I am also interested and currently working with mammals. Some of the projects I have been working on include pumas, Rice's whales and Channel Island foxes. 
 
