@@ -39,6 +39,7 @@ header_pages:
   - research.markdown
   - publications.markdown
   - cv.markdown
+  - resources
 
 
 # Exclude from processing.
