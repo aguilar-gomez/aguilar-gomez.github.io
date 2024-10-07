@@ -5,12 +5,12 @@ permalink: /resources/
 ---
 
 -------------------------------------------------------
-### Genomes
+### Reference genomes
 - *Phrynocephalus versicolor* [NCBI link](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_023846285.1/)
 - *Phrynocephalus guinanensis* [NCBI link](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041475465.1/)
 
 -------------------------------------------------------
-### BioProjects
+### Genome resequencing
 
 | Bioproject       | Species                | Publication                         | Number of Individuals |
 |------------------|------------------------|-------------------------------------|-----------------------|
