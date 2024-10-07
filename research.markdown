@@ -83,7 +83,7 @@ As human-driven environmental change accelerates, understanding adaptation becom
 </style>
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://aguilar-gomez.github.io/research/whales/">
+  <a href="https://aguilar-gomez.github.io/whales/">
      <div class="image-hover-container">
       <img src="/figures/RicesWhaleCircle.png" alt="Rice's whale drawing">
       <div class="hover-text">Understanding the demography of the critically endangered Rice's whale</div>
