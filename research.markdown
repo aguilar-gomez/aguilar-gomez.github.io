@@ -109,7 +109,7 @@ As human-driven environmental change accelerates, understanding adaptation becom
 <div style="display: flex; justify-content: space-between;">
   <a href="https://aguilar-gomez.github.io/pumilio/">
     <div class="image-hover-container">
-    <img src="/figures/pumilioCircle.png" alt="Solarte Oophaga pumilio">
+    <img src="/figures/drawingfrogsNobk.png" alt="DolphinBay">
       <div class="hover-text">Color genomics of the strawberry poison frog in Bocas del Toro</div>
     </div>
   </a> 
