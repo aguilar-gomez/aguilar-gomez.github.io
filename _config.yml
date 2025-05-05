@@ -38,6 +38,7 @@ header_pages:
   - index.markdown
   - research.markdown
   - publications.markdown
+  - media.markdown
   - cv.markdown
   - resources.markdown
 
