@@ -18,7 +18,7 @@ permalink: /media/
     </div>
     <div style="text-align: center; max-width: 200px;">
       <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
-        <img src="/figures/media/PopScience.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
+        <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
       </a>
       <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
       <div style="color: grey;">interviewed by</div>
