@@ -12,7 +12,7 @@ permalink: /publications/
 [<img src="/figures/VisualAbHae.jpg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/20225AguilarGomezHaenyeo.pdf)
 Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea
 
-<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025*[PDF](/files/publications/20225AguilarGomezHaenyeo.pdf)</span>
+<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025* [PDF](/files/publications/2025AguilarGomezHaenyeo.pdf)</span>
 
 
 
