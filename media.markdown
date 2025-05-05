@@ -1,6 +1,6 @@
 ---
 layout: post
-title: media
+title: media coverage
 permalink: /media/
 ---
 
