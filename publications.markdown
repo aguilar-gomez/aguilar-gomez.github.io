@@ -6,6 +6,8 @@ permalink: /publications/
 
 [Google scholar](https://scholar.google.com/citations?user=IvS5ON0AAAAJ&hl)
 
+<span style="font-size: smaller; color: #3b3e3f;">*co-first authors</span>
+
 -------------------------------------------------------
 ### 2025
 
@@ -38,8 +40,6 @@ Population genomics of variegated toad-headed lizard Phrynocephalus versicolor a
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez,Diana** \*,  Yuanting Jin \*, Débora Y. C. Brandt, Tyler A. Square, Jiasheng Li, Zhengxia Liu, Gang Shao, Tao Wang, Peter H. Sudmant, Craig T. Miller and Rasmus Nielsen.
 *Genome Biology and Evolution 2022*. [PDF](/files/publications/2022Phrynocephalus.pdf) </span>
-
-<span style="font-size: smaller; color: #3b3e3f;">*co-first authors</span>
 
 <span style="font-size: smaller; color: #3b3e3f;">image by Philippa Steinberg </span>
 
