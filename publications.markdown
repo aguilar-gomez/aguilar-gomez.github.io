@@ -7,6 +7,16 @@ permalink: /publications/
 [Google scholar](https://scholar.google.com/citations?user=IvS5ON0AAAAJ&hl)
 
 -------------------------------------------------------
+### 2025
+
+[<img src="/figures/VisualAbHae.jpg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/20225AguilarGomezHaenyeo.pdf)
+Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea
+
+<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025*[PDF](/files/publications/20225AguilarGomezHaenyeo.pdf)</span>
+
+
+
+-------------------------------------------------------
 ### 2024
 Prevalent role of homologous recombination in the repair of specific double-strand breaks in *Rhizobium etli*
 
@@ -23,7 +33,7 @@ Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
 -------------------------------------------------------
 ### 2022
 
-[<img src="/figures/lizardsPhilippa.jpg" alt="Solarte Oophaga pumilio" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2022Phrynocephalus.pdf)
+[<img src="/figures/lizardsPhilippa.jpg" alt="yin yang lizard" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2022Phrynocephalus.pdf)
 Population genomics of variegated toad-headed lizard Phrynocephalus versicolor and its adaptation to the colorful sand of the Gobi Desert
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez,Diana** \*,  Yuanting Jin \*, Débora Y. C. Brandt, Tyler A. Square, Jiasheng Li, Zhengxia Liu, Gang Shao, Tao Wang, Peter H. Sudmant, Craig T. Miller and Rasmus Nielsen.
