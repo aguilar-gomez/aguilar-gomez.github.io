@@ -16,14 +16,12 @@ permalink: /media/
       <div><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
       <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
     </div>
-
     <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
       <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
         <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
       </a>
       <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
     </div>
-
     <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
       <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
         <img src="/figures/media/UHealth.png" alt="University of Utah Health screenshot" style="width: 100%; border-radius: 4px;">
