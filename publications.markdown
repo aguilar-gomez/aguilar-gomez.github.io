@@ -16,6 +16,7 @@ Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025*  [PDF](/files/publications/2025AguilarGomezHaenyeo.pdf)</span>
 <br><br><br>
+
 -------------------------------------------------------
 ### 2024
 Prevalent role of homologous recombination in the repair of specific double-strand breaks in *Rhizobium etli*
