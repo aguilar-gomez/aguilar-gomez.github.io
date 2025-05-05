@@ -5,8 +5,7 @@ permalink: /media/
 ---
 
 <section class="media-coverage">
-  <img src="/figures/VisualAbHae.jpg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">
-  <h3>Our Cell Reports paper was featured in multiplemedia outlets: </h3>
+  Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets: 
   <ul class="media-links">
     <li><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank"><strong>Popular Science</strong></a></li>
     <li><a href="https://www.technologynetworks.com/tn/news/genetic-differences-help-haenyeo-divers-survive-high-pressure-environments-399280" target="_blank"><strong>Technology Networks</strong></a></li>
