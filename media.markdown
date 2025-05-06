@@ -9,6 +9,7 @@ permalink: /media/
 <section class="media-coverage">
   <p>Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets:</p>
 
+  <p><strong style="font-size: 1.2em;">In English</strong></p>
   <!-- Featured Media Row -->
 <!-- Featured Media Row -->
 <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -57,13 +58,14 @@ permalink: /media/
 </div>
 
   <!-- Korean Media -->
+  <p><strong style="font-size: 1.2em;">한국어</strong></p>
   <p>Also featured in Korean media:</p>
   <ul class="media-links">
     <li><a href="https://v.daum.net/v/20250503000106885" target="_blank"><strong>연합뉴스 (Yonhap News)</strong></a></li>
   </ul>
 
   <!-- Spanish Media -->
-  <p>También cubierto en medios en español:</p>
+  <p><strong style="font-size: 1.2em;">En Español</strong></p>
   <!-- Featured Media Row -->
   <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
