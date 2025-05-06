@@ -1,6 +1,8 @@
 ---
 layout: post
-title: media coverage
+title: media
+menu_title: Media
+page_heading: Media Coverage
 permalink: /media/
 ---
 
@@ -28,6 +30,12 @@ permalink: /media/
       </a>
       <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
       <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
+<div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <a href="https://www.the-scientist.com/news-opinion/how-extreme-divers-have-adapted-to-life-in-the-deep-72327" target="_blank">
+    <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
+  </a>
+  <div><a href="https://www.the-scientist.com/news-opinion/how-extreme-divers-have-adapted-to-life-in-the-deep-72327" target="_blank" style="color: #007acc; font-weight: bold;">The Scientist</a></div>
+</div>
     </div>
   </div>
 
@@ -55,15 +63,17 @@ permalink: /media/
   <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
       <a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank">
-        <img src="/figures/media/ElPais.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
+        <img src="/figures/media/ElPais.png" alt="EL Pais screenshot" style="width: 100%; border-radius: 4px;">
       </a>
-      <div><a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
+      <div><a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank" style="color: #007acc; font-weight: bold;">El País</a></div>
   </div>
+</div>
 
   
   <ul class="media-links">
     <li><a href="https://www.abc.es/ciencia/descubren-secreto-genetico-haenyeo-mujeres-mar-coreanas-20250502143939-nt_amp.html" target="_blank"><strong>ABC (Español)</strong></a></li>
     <li><a href="https://www.vistaalmar.es/ciencia-tecnologia/medicina/14602-identifican-genes-unicos-legendarias-mujeres-mar-corea-sur.html" target="_blank"><strong>Vista al Mar (Español)</strong></a></li>
   </ul>
+  
 </section>
 
