@@ -30,6 +30,12 @@ permalink: /media/
       </a>
       <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
       <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
+<div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <a href="https://www.the-scientist.com/news-opinion/how-extreme-divers-have-adapted-to-life-in-the-deep-72327" target="_blank">
+    <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
+  </a>
+  <div><a href="https://www.the-scientist.com/news-opinion/how-extreme-divers-have-adapted-to-life-in-the-deep-72327" target="_blank" style="color: #007acc; font-weight: bold;">The Scientist</a></div>
+</div>
     </div>
   </div>
 
