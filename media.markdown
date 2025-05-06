@@ -10,34 +10,39 @@ permalink: /media/
   <p>Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets:</p>
 
   <!-- Featured Media Row -->
-  <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
-      <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
-        <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
-      </a>
-      <div><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
-      <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
-    </div>
-    <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
-      <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
-        <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
-      </a>
-      <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
-    </div>
-    <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
-      <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
-        <img src="/figures/media/UHealth.png" alt="University of Utah Health screenshot" style="width: 100%; border-radius: 4px;">
-      </a>
-      <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
-      <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
-<div style="flex-basis: 45%; text-align: center; max-width: 300px;">
-  <a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank">
-    <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
-  </a>
-  <div><a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank" style="color: #007acc; font-weight: bold;">The Scientist</a></div>
-</div>
-    </div>
+<!-- Featured Media Row -->
+<div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
+      <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
+    <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
   </div>
+
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
+      <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
+      <img src="/figures/media/UHealth.png" alt="University of Utah Health screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
+    <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank">
+      <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank" style="color: #007acc; font-weight: bold;">The Scientist</a></div>
+  </div>
+</div>
+
 
   <!-- Standard Media List in Two Columns -->
   <div class="media-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5em 2em; margin-top: 1em; padding-left: 1em;">
