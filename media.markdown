@@ -1,6 +1,8 @@
 ---
 layout: post
-title: media coverage
+title: media
+menu_title: media
+page_heading: Media Coverage
 permalink: /media/
 ---
 
