@@ -59,7 +59,7 @@ permalink: /media/
       </a>
       <div><a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank" style="color: #007acc; font-weight: bold;">EL País</a></div>
   </div>
-
+</div>
 
   
   <ul class="media-links">
