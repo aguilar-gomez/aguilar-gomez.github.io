@@ -57,7 +57,7 @@ permalink: /media/
       <a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank">
         <img src="/figures/media/ElPais.png" alt="EL Pais screenshot" style="width: 100%; border-radius: 4px;">
       </a>
-      <div><a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank" style="color: #007acc; font-weight: bold;">EL País</a></div>
+      <div><a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank" style="color: #007acc; font-weight: bold;">El País</a></div>
   </div>
 </div>
 
