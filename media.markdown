@@ -55,7 +55,12 @@ permalink: /media/
     <div><a href="https://www.washingtonpost.com/science/2025/05/07/korean-extreme-divers-genetics-chronic-disease/" target="_blank" style="color: #007acc; font-weight: bold;">The Washington Post</a></div>
   </div>
 
-
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.cnn.com/2025/05/07/science/haenyeo-south-korea-divers-evolution#openweb-convo target="_blank">
+      <img src="/figures/media/CNN.png" alt="CNN" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.cnn.com/2025/05/07/science/haenyeo-south-korea-divers-evolution#openweb-convo" target="_blank" style="color: #007acc; font-weight: bold;">CNN</a></div>
+  </div>
 
 
   
