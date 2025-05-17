@@ -27,7 +27,7 @@ permalink: /media/
 <!-- Featured Media Row -->
 <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 <!-- First Row -->
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.npr.org/sections/shots-health-news/2025/05/15/nx-s1-5381139/korean-haenyeo-female-free-divers-genes-adaptations-jeju" target="_blank">
       <img src="/figures/media/NPR.png" alt="NPR screenshot" style="width: 100%; border-radius: 4px;">
     </a>
@@ -35,7 +35,7 @@ permalink: /media/
     <div style="color: grey; font-size: 0.9em;">interviewed by Ari Daniel</div>
   </div>
 
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank">
       <img src="/figures/media/Independent.png" alt="Independent screenshot" style="width: 100%; border-radius: 4px;">
     </a>
@@ -43,7 +43,7 @@ permalink: /media/
   </div>
   
 <!-- Next Row -->
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
       <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
     </a>
@@ -51,7 +51,7 @@ permalink: /media/
     <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
   </div>
 
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
       <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
     </a>
