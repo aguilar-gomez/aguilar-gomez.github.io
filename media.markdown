@@ -5,6 +5,17 @@ menu_title: Media
 page_heading: Media Coverage
 permalink: /media/
 ---
+.media-card {
+  border: 2px solid #007acc;         /* Blue edge */
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); /* Optional soft shadow */
+  background-color: white;           /* Makes sure white background inside */
+  transition: transform 0.2s ease;   /* Optional hover effect */
+}
+.media-card:hover {
+  transform: scale(1.02);
+}
 
 <section class="media-coverage">
   <p>Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets:</p>
