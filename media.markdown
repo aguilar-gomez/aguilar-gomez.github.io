@@ -13,8 +13,23 @@ permalink: /media/
   <!-- Featured Media Row -->
 <!-- Featured Media Row -->
 <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
 <!-- First Row -->
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.npr.org/sections/shots-health-news/2025/05/15/nx-s1-5381139/korean-haenyeo-female-free-divers-genes-adaptations-jeju" target="_blank">
+      <img src="/figures/media/NPR.png" alt="NPR screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.npr.org/sections/shots-health-news/2025/05/15/nx-s1-5381139/korean-haenyeo-female-free-divers-genes-adaptations-jeju" target="_blank" style="color: #007acc; font-weight: bold;">NPR</a></div>
+    <div style="color: grey; font-size: 0.9em;">interviewed by Ari Daniel</div>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank">
+      <img src="/figures/media/Independent.png" alt="Independent screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank" style="color: #007acc; font-weight: bold;">Independent</a></div>
+  </div>
+  
+<!-- Next Row -->
   <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
       <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
@@ -55,7 +70,12 @@ permalink: /media/
     <div><a href="https://www.washingtonpost.com/science/2025/05/07/korean-extreme-divers-genetics-chronic-disease/" target="_blank" style="color: #007acc; font-weight: bold;">The Washington Post</a></div>
   </div>
 
-
+  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <a href="https://www.cnn.com/2025/05/07/science/haenyeo-south-korea-divers-evolution#openweb-convo" target="_blank">
+      <img src="/figures/media/CNN.png" alt="CNN" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.cnn.com/2025/05/07/science/haenyeo-south-korea-divers-evolution#openweb-convo" target="_blank" style="color: #007acc; font-weight: bold;">CNN</a></div>
+  </div>
 
 
   
