@@ -60,7 +60,7 @@ permalink: /media/
 
 <!-- Next Row -->
 
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
       <img src="/figures/media/UHealth.png" alt="University of Utah Health screenshot" style="width: 100%; border-radius: 4px;">
     </a>
@@ -68,7 +68,7 @@ permalink: /media/
     <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
   </div>
 
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank">
       <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
     </a>
@@ -76,14 +76,14 @@ permalink: /media/
   </div>
   
 <!-- Next Row -->
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.washingtonpost.com/science/2025/05/07/korean-extreme-divers-genetics-chronic-disease/" target="_blank">
       <img src="/figures/media/TheWashingtonPost.png" alt="The Washington Post" style="width: 100%; border-radius: 4px;">
     </a>
     <div><a href="https://www.washingtonpost.com/science/2025/05/07/korean-extreme-divers-genetics-chronic-disease/" target="_blank" style="color: #007acc; font-weight: bold;">The Washington Post</a></div>
   </div>
 
-  <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
     <a href="https://www.cnn.com/2025/05/07/science/haenyeo-south-korea-divers-evolution#openweb-convo" target="_blank">
       <img src="/figures/media/CNN.png" alt="CNN" style="width: 100%; border-radius: 4px;">
     </a>
@@ -118,7 +118,7 @@ permalink: /media/
   <p><strong style="font-size: 1.2em;">En Español</strong></p>
   <!-- Featured Media Row -->
   <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="flex-basis: 45%; text-align: center; max-width: 300px;">
+    <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
       <a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank">
         <img src="/figures/media/ElPais.png" alt="EL Pais screenshot" style="width: 100%; border-radius: 4px;">
       </a>
