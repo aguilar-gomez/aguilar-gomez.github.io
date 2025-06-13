@@ -18,6 +18,8 @@ permalink: /media/
   transform: scale(1.02);
 }
 </style>
+<!-- To change into two columns instead of three change 30% to 45%-->
+
 
 <section class="media-coverage">
   <p>Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets:</p>
