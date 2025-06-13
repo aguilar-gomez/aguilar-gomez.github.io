@@ -125,10 +125,10 @@ permalink: /media/
       <div><a href="https://www.milenio.com/ciencia-y-salud/haenyeo-corea-sur-mar-moldea-ventaja-genetica" target="_blank" style="color: #007acc; font-weight: bold;">Milenio</a></div><div style="color: grey; font-size: 0.9em;">entrevistada por Lizeth Hernández</div>
   </div>
         <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
-      <a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank">
-        <img src="/figures/media/ElPais.png" alt="EL Pais screenshot" style="width: 100%; border-radius: 4px;">
+      <a href="https://www.bbc.com/mundo/articles/c20nk0k63ndo" target="_blank">
+        <img src="/figures/media/BBC.png" alt="BBC screenshot" style="width: 100%; border-radius: 4px;">
       </a>
-      <div><a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank" style="color: #007acc; font-weight: bold;">El País</a></div>
+      <div><a href="https://www.bbc.com/mundo/articles/c20nk0k63ndo" target="_blank" style="color: #007acc; font-weight: bold;">BBC News</a></div><div style="color: grey; font-size: 0.9em;">entrevistada por Atahualpa Amerise</div>
   </div>
         <div class="media-card" style="flex-basis: 45%; text-align: center; max-width: 300px;">
       <a href="https://elpais.com/salud-y-bienestar/2025-05-06/el-adn-de-las-haenyeo-revela-como-el-cuerpo-humano-puede-adaptarse-al-buceo-extremo.html" target="_blank">
