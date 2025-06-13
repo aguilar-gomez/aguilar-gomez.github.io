@@ -103,7 +103,7 @@ permalink: /media/
 
 
 <!-- Standard Media List in Two Columns -->
-<div class="media-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5em 2em; margin-top: 1em; padding-left: 1em; justify-items: center; align-items: center;">
+<div class="media-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.5em 2em; margin-top: 1em; padding-left: 1em; justify-items: center; align-items: center;">
   <div><a href="https://www.technologynetworks.com/tn/news/genetic-differences-help-haenyeo-divers-survive-high-pressure-environments-399280" target="_blank"><strong>Technology Networks</strong></a></div>
   <div><a href="https://www.livescience.com/health/genetics/legendary-women-of-the-sea-in-south-korea-freedive-well-into-their-80s-a-new-study-hints-at-how" target="_blank"><strong>Live Science</strong></a></div>
   <div><a href="https://www.miragenews.com/korean-haenyeo-divers-show-cold-water-genetic-1453864/" target="_blank"><strong>Mirage News</strong></a></div>
