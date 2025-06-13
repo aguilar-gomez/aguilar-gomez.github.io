@@ -38,29 +38,12 @@ permalink: /media/
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
-    <a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank">
-      <img src="/figures/media/Independent.png" alt="Independent screenshot" style="width: 100%; border-radius: 4px;">
-    </a>
-    <div><a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank" style="color: #007acc; font-weight: bold;">Independent</a></div>
-  </div>
-  
-<!-- Next Row -->
-  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
     <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
       <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
     </a>
     <div><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
     <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
   </div>
-
-  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
-    <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
-      <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
-    </a>
-    <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
-  </div>
-
-<!-- Next Row -->
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
     <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
@@ -71,12 +54,11 @@ permalink: /media/
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
-    <a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank">
-      <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
+    <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
+      <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
     </a>
-    <div><a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank" style="color: #007acc; font-weight: bold;">The Scientist</a></div>
+    <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
   </div>
-  
 <!-- Next Row -->
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
     <a href="https://www.washingtonpost.com/science/2025/05/07/korean-extreme-divers-genetics-chronic-disease/" target="_blank">
@@ -90,6 +72,29 @@ permalink: /media/
       <img src="/figures/media/CNN.png" alt="CNN" style="width: 100%; border-radius: 4px;">
     </a>
     <div><a href="https://www.cnn.com/2025/05/07/science/haenyeo-south-korea-divers-evolution#openweb-convo" target="_blank" style="color: #007acc; font-weight: bold;">CNN</a></div>
+  </div>
+
+<!-- Next Row -->
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank">
+      <img src="/figures/media/Independent.png" alt="Independent screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.independent.co.uk/news/science/korea-haenyeo-divers-underwater-evolution-b2752119.html" target="_blank" style="color: #007acc; font-weight: bold;">Independent</a></div>
+  </div>
+
+
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank">
+      <img src="/figures/media/TheScientist.png" alt="The Scientist screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.the-scientist.com/korea-s-deep-sea-diving-women-show-genetic-traits-for-cold-water-endurance-72986" target="_blank" style="color: #007acc; font-weight: bold;">The Scientist</a></div>
+  </div>
+  
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://www.nature.com/articles/d41586-025-01386-4" target="_blank">
+      <img src="/figures/media/Nature.png" alt="Nature screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.nature.com/articles/d41586-025-01386-4" target="_blank" style="color: #007acc; font-weight: bold;">Nature</a></div>
   </div>
 
 
