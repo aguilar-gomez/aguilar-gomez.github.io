@@ -145,14 +145,15 @@ permalink: /media/
   </div>
 </div>
 
-<div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 300px;">
-  <h3>🎙️ RCN Radio Red Bogotá: Una mirada diferente</h3>
+<div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+  <h3>🎙️ RCN Radio Red Bogotá</h3>
+  <h2> EntrevistaDAGRadioRed.mp3 </h2>
   <audio controls style="width: 100%; margin: 10px 0;">
     <source src="/files/audios/EntrevistaDAGRadioRed.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
-  <p><strong>Topic:</strong> Public science communication<br>
-     <strong>Date:</strong> May 2025</p>
+  <p><strong>Tema:</strong> Las mujeres haenyeo y sus adaptaciones para bucear <br>
+     <strong>Fecha:</strong> Mayo 2025</p>
 </div>
 
 
