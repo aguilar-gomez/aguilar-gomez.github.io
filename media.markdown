@@ -147,7 +147,7 @@ permalink: /media/
 
 <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
   <h3>🎙️ RCN Radio Red Bogotá</h3>
-  <h2> EntrevistaDAGRadioRed.mp3 </h2>
+  <h4> EntrevistaDAGRadioRed.mp3 </h4>
   <audio controls style="width: 100%; margin: 10px 0;">
     <source src="/files/audios/EntrevistaDAGRadioRed.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
