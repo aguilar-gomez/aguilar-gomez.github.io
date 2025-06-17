@@ -145,16 +145,18 @@ permalink: /media/
   </div>
 </div>
 
-<div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 250px;">
-  <h4>🎙️ RCN Radio Red Bogotá</h4>
-  <p>Una Mirada Diferente</p>
-  <audio controls style="width: 100%; margin: 10px 0;">
-    <source src="/files/audios/EntrevistaDAGRadioRed.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-  <p><strong>Fecha:</strong> Mayo 2025</p>
+<!-- Audio Interview Section -->
+<div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 250px;">
+    <h4>🎙️ RCN Radio Red Bogotá</h4>
+    <p><em>Una Mirada Diferente</em></p>
+    <audio controls style="width: 100%; margin: 10px 0;">
+      <source src="/files/audios/EntrevistaDAGRadioRed.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <p><strong>Fecha:</strong> Mayo 2025</p>
+  </div>
 </div>
-
 
   
   <ul class="media-links">
