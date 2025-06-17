@@ -157,6 +157,7 @@ permalink: /media/
       Your browser does not support the audio element.
     </audio>
     <p><strong>Fecha:</strong> Mayo 2025</p>
+    <p><strong>Duración:</strong> 15 min</p>
   </div>
 </div>
 
