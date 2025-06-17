@@ -145,6 +145,17 @@ permalink: /media/
   </div>
 </div>
 
+<div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 300px;">
+  <h3>🎙️ RCN Radio Red Bogotá: Una mirada diferente</h3>
+  <audio controls style="width: 100%; margin: 10px 0;">
+    <source src="/files/audios/EntrevistaDAGRadioRed.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <p><strong>Topic:</strong> Public science communication<br>
+     <strong>Date:</strong> May 2025</p>
+</div>
+
+
   
   <ul class="media-links">
     <li><a href="https://www.abc.es/ciencia/descubren-secreto-genetico-haenyeo-mujeres-mar-coreanas-20250502143939-nt_amp.html" target="_blank"><strong>ABC (Español)</strong></a></li>
