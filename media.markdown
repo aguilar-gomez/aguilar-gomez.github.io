@@ -145,6 +145,22 @@ permalink: /media/
   </div>
 </div>
 
+<!-- Audio Interview Section -->
+<div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 250px;">
+    <a href="https://radiored.rcnradio.com/" target="_blank">
+      <div style="color: #007acc; font-weight: bold;">RCN Radio Red Bogotá</div>
+    </a>
+    <div style="color: grey; font-size: 0.9em;">Una Mirada Diferente</div>
+    <audio controls style="width: 100%; margin: 10px 0;">
+      <source src="/files/audios/EntrevistaDAGRadioRed.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <p><strong>Fecha:</strong> Mayo 2025</p>
+    <p><strong>Duración:</strong> 15 min</p>
+  </div>
+</div>
+
   
   <ul class="media-links">
     <li><a href="https://www.abc.es/ciencia/descubren-secreto-genetico-haenyeo-mujeres-mar-coreanas-20250502143939-nt_amp.html" target="_blank"><strong>ABC (Español)</strong></a></li>
