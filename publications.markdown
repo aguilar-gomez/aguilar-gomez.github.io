@@ -10,7 +10,7 @@ permalink: /publications/
 
 -------------------------------------------------------
 ### 2025
-[<img src="/figures/PNASAguilar-Gomez.png" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezFloridaPanther.pdf)
+[<img src="/figures/PNASCover.png" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezFloridaPanther.pdf)
 Genetic rescue of Florida panthers reduced homozygosity but did not swamp ancestral genotypes
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Lin Yuan, Yulin Zhang, Alexander Ochoa, Melanie Culver, Robert R. Fitak, Dave Onorato, Kirk E. Lohmueller and Rasmus Nielsen. *PNAS 2025*. [PDF](/files/publications/2025AguilarGomezFloridaPanther.pdf)</span> <br> <br> <br>
