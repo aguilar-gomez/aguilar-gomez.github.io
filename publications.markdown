@@ -10,17 +10,19 @@ permalink: /publications/
 
 -------------------------------------------------------
 ### 2025
-[<img src="/figures/PNASAguilar-Gomez.png" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezFloridaPanther.pdf)
+[<img src="/figures/PNASCover.jpeg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezFloridaPanther.pdf)
 Genetic rescue of Florida panthers reduced homozygosity but did not swamp ancestral genotypes
 
-<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Lin Yuan, Yulin Zhang, Alexander Ochoa, Melanie Culver, Robert R. Fitak, Dave Onorato, Kirk E. Lohmueller and Rasmus Nielsen. *PNAS 2025*. [PDF](/files/publications/2025AguilarGomezFloridaPanther.pdf)</span> <br> <br> <br>
+<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Lin Yuan, Yulin Zhang, Alexander Ochoa, Melanie Culver, Robert R. Fitak, Dave Onorato, Kirk E. Lohmueller and Rasmus Nielsen. *PNAS 2025*. [PDF](/files/publications/2025AguilarGomezFloridaPanther.pdf) [DOI](https://doi.org/10.1073/pnas.2410945122)</span> 
+
+<br> <br> <br>
 
 
 
 [<img src="/figures/VisualAbHae.jpg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezHaenyeo.pdf)
 Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea
 
-<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025*  [PDF](/files/publications/2025AguilarGomezHaenyeo.pdf)</span>
+<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025*  [PDF](/files/publications/2025AguilarGomezHaenyeo.pdf) [DOI](https://doi.org/10.1016/j.celrep.2025.115577)</span>
 <br><br><br>
 
 -------------------------------------------------------
