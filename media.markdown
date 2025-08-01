@@ -163,9 +163,9 @@ permalink: /media/
   </div>
 
   <!-- Spotify Episode Card -->
-  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 300px;">
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 400px;">
     <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
-      <div style="color: #007acc; font-weight: bold;">MUTANTE: La ciencia cambiantey</div>
+      <div style="color: #007acc; font-weight: bold;">MUTANTE: La ciencia cambiante</div>
     </a>
     <div style="color: grey; font-size: 0.9em;">T2 E18- El linaje de las Haenyeo</div>
     <!-- Embedded Spotify player -->
