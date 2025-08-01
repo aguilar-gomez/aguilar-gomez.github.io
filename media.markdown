@@ -147,8 +147,10 @@ permalink: /media/
 
 <!-- Audio Interview Section -->
 <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+
+  <!-- Existing RCN Radio Card -->
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 250px;">
-    <a href="https://radiored.rcnradio.com/" target="_blank">
+    <a href="https://radiored.rcnradio.com/" target="_blank" rel="noopener">
       <div style="color: #007acc; font-weight: bold;">RCN Radio Red Bogotá</div>
     </a>
     <div style="color: grey; font-size: 0.9em;">Una Mirada Diferente</div>
@@ -159,7 +161,31 @@ permalink: /media/
     <p><strong>Fecha:</strong> Mayo 2025</p>
     <p><strong>Duración:</strong> 15 min</p>
   </div>
-</div>
+
+  <!-- Spotify Episode Card -->
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 300px;">
+    <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
+      <div style="color: #1DB954; font-weight: bold;">Spotify Podcast</div>
+    </a>
+    <div style="color: grey; font-size: 0.9em;">Entrevista (episodio)</div>
+    <!-- Embedded Spotify player -->
+    <div style="margin: 10px 0;">
+      <iframe 
+        src="https://open.spotify.com/embed/episode/494CbOGh1kiKcAEXQCoMYH?utm_source=generator" 
+        width="100%" 
+        height="232" 
+        frameborder="0" 
+        allowfullscreen="" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+        loading="lazy"
+        title="Spotify Episode Embed">
+      </iframe>
+    </div>
+    <p><strong>Fecha:</strong> Mayo 2025</p>
+    <!-- If you know the exact duration, replace the placeholder below -->
+    <p><strong>Duración:</strong> ~15 min</p>
+    <p style="font-size:0.8em;"><a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">Escuchar en Spotify</a></p>
+  </div>
 
   
   <ul class="media-links">
