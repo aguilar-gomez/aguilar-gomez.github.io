@@ -163,7 +163,7 @@ permalink: /media/
   </div>
 
   <!-- Spotify Episode Card -->
-  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 400px;">
+  <div class="media-card" style="flex: 1 1 400px;; text-align: center; max-width: 400px;">
     <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
       <div style="color: #007acc; font-weight: bold;">MUTANTE: La ciencia cambiante</div>
     </a>
