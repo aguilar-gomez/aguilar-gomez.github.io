@@ -165,9 +165,9 @@ permalink: /media/
   <!-- Spotify Episode Card -->
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 300px;">
     <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
-      <div style="color: #1DB954; font-weight: bold;">Spotify Podcast</div>
+      <div style="color: #007acc; font-weight: bold;">MUTANTE: La ciencia cambiantey</div>
     </a>
-    <div style="color: grey; font-size: 0.9em;">Entrevista (episodio)</div>
+    <div style="color: grey; font-size: 0.9em;">T2 E18- El linaje de las Haenyeo</div>
     <!-- Embedded Spotify player -->
     <div style="margin: 10px 0;">
       <iframe 
@@ -181,12 +181,11 @@ permalink: /media/
         title="Spotify Episode Embed">
       </iframe>
     </div>
-    <p><strong>Fecha:</strong> Mayo 2025</p>
-    <!-- If you know the exact duration, replace the placeholder below -->
-    <p><strong>Duración:</strong> ~15 min</p>
-    <p style="font-size:0.8em;"><a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">Escuchar en Spotify</a></p>
+  <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
+      <div style="color: #1DB954; font-weight: bold;">Escuchar en Spotify</div>
+    </a>
   </div>
-
+ </div>
   
   <ul class="media-links">
     <li><a href="https://www.abc.es/ciencia/descubren-secreto-genetico-haenyeo-mujeres-mar-coreanas-20250502143939-nt_amp.html" target="_blank"><strong>ABC (Español)</strong></a></li>
