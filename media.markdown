@@ -33,6 +33,7 @@ permalink: /media/
       <img src="/figures/media/WUSF.png" alt="NPR screenshot" style="width: 100%; border-radius: 4px;">
     </a>
     <div><a href="https://www.wusf.org/environment/2025-07-28/study-shows-recovery-florida-panthers-genetic-success-story" target="_blank" style="color: #007acc; font-weight: bold;">WUSF NPR</a></div>
+       <div style="color: grey; font-size: 0.9em;">interviewed by Steve Newborn</div>
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
@@ -43,11 +44,11 @@ permalink: /media/
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
-    <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
-      <img src="/figures/media/UHealth.png" alt="University of Utah Health screenshot" style="width: 100%; border-radius: 4px;">
+    <a href="https://newsroom.ucla.edu/releases/florida-panther-conservation-success?utm_source=8-1-2025-issue" target="_blank">
+      <img src="/figures/media/UCLA.png" alt="UCLA" style="width: 100%; border-radius: 4px;">
     </a>
-    <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
-    <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
+    <div><a href="https://newsroom.ucla.edu/releases/florida-panther-conservation-success?utm_source=8-1-2025-issue" target="_blank" style="color: #007acc; font-weight: bold;">UCLA Newsroom</a></div>
+    <div style="color: grey; font-size: 0.9em;">interviewed by Holly Ober</div>
   </div>
   </div>
 
