@@ -22,8 +22,8 @@ permalink: /media/
 
 
 <section class="media-coverage">
-  <p>Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets:</p>
 
+  <p><strong style="font-size: 1.5em;">Genetic and physiological adaptations in the Haenyeo</strong></p>
   <p><strong style="font-size: 1.2em;">In English</strong></p>
   <!-- Featured Media Row -->
 <!-- Featured Media Row -->
@@ -147,8 +147,10 @@ permalink: /media/
 
 <!-- Audio Interview Section -->
 <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+
+  <!-- Existing RCN Radio Card -->
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 250px;">
-    <a href="https://radiored.rcnradio.com/" target="_blank">
+    <a href="https://radiored.rcnradio.com/" target="_blank" rel="noopener">
       <div style="color: #007acc; font-weight: bold;">RCN Radio Red Bogotá</div>
     </a>
     <div style="color: grey; font-size: 0.9em;">Una Mirada Diferente</div>
@@ -159,8 +161,31 @@ permalink: /media/
     <p><strong>Fecha:</strong> Mayo 2025</p>
     <p><strong>Duración:</strong> 15 min</p>
   </div>
-</div>
 
+  <!-- Spotify Episode Card -->
+  <div class="media-card" style="flex: 1 1 400px;; text-align: center; max-width: 400px;">
+    <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
+      <div style="color: #007acc; font-weight: bold;">MUTANTE: La ciencia cambiante</div>
+    </a>
+    <div style="color: grey; font-size: 0.9em;">T2 E18- El linaje de las Haenyeo</div>
+    <!-- Embedded Spotify player -->
+    <div style="margin: 10px 0;">
+      <iframe 
+        src="https://open.spotify.com/embed/episode/494CbOGh1kiKcAEXQCoMYH?utm_source=generator" 
+        width="100%" 
+        height="232" 
+        frameborder="0" 
+        allowfullscreen="" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+        loading="lazy"
+        title="Spotify Episode Embed">
+      </iframe>
+    </div>
+  <a href="https://open.spotify.com/episode/494CbOGh1kiKcAEXQCoMYH" target="_blank" rel="noopener">
+      <div style="color: #1DB954; font-weight: bold;">Escuchar en Spotify</div>
+    </a>
+  </div>
+ </div>
   
   <ul class="media-links">
     <li><a href="https://www.abc.es/ciencia/descubren-secreto-genetico-haenyeo-mujeres-mar-coreanas-20250502143939-nt_amp.html" target="_blank"><strong>ABC (Español)</strong></a></li>
