@@ -22,8 +22,8 @@ permalink: /media/
 
 
 <section class="media-coverage">
-  <p>Our research about Haenyeo, all-female divers from Jeju, Korea, was featured in multiple media outlets:</p>
 
+  <p><strong style="font-size: 1.5em;">Genetic and physiological adaptations in the Haenyeo</strong></p>
   <p><strong style="font-size: 1.2em;">In English</strong></p>
   <!-- Featured Media Row -->
 <!-- Featured Media Row -->
