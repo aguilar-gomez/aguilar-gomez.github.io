@@ -50,17 +50,12 @@ permalink: /media/
     <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
     <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
   </div>
-
-  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
-    <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
-      <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
-    </a>
-    <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
   </div>
 
 
 
   <p><strong style="font-size: 1.5em;">Genetic and physiological adaptations in the Haenyeo</strong></p>
+  
   <p><strong style="font-size: 1.2em;">In English</strong></p>
   <!-- Featured Media Row -->
 <!-- Featured Media Row -->
