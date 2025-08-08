@@ -36,11 +36,10 @@ permalink: /media/
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
-    <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
-      <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
+    <a href="https://www.discoverwildlife.com/animal-facts/mammals/puma-translocation-texas-florida" target="_blank">
+      <img src="/figures/media/Wildlife.png" alt="Wildlife" style="width: 100%; border-radius: 4px;">
     </a>
-    <div><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
-    <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
+    <div><a href="https://www.discoverwildlife.com/animal-facts/mammals/puma-translocation-texas-florida" target="_blank" style="color: #007acc; font-weight: bold;">BBC Wildlife Magazine</a></div>
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
