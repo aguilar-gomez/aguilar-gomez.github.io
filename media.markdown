@@ -32,7 +32,7 @@ permalink: /media/
       <img src="/figures/media/WUSF.png" alt="NPR screenshot" style="width: 100%; border-radius: 4px;">
     </a>
     <div><a href="https://www.wusf.org/environment/2025-07-28/study-shows-recovery-florida-panthers-genetic-success-story" target="_blank" style="color: #007acc; font-weight: bold;">WUSF NPR</a></div>
-       <div style="color: grey; font-size: 0.9em;">interviewed by Steve Newborn</div>
+       <div style="color: grey; font-size: 0.9em;">interviewed by S. Newborn</div>
   </div>
 
   <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
