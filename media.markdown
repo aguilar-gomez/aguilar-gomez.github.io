@@ -22,6 +22,43 @@ permalink: /media/
 
 
 <section class="media-coverage">
+ <p><strong style="font-size: 1.5em;">Genomic consequences of translocations in Florida Panthers</strong></p>
+  <p><strong style="font-size: 1.2em;">In English</strong></p>
+  <!-- Featured Media Row -->
+<!-- Featured Media Row -->
+<div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<!-- First Row -->
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://www.wusf.org/environment/2025-07-28/study-shows-recovery-florida-panthers-genetic-success-story" target="_blank">
+      <img src="/figures/media/WUSF.png" alt="NPR screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.wusf.org/environment/2025-07-28/study-shows-recovery-florida-panthers-genetic-success-story" target="_blank" style="color: #007acc; font-weight: bold;">WUSF NPR</a></div>
+  </div>
+
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank">
+      <img src="/figures/media/PopScience.png" alt="Popular Science screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.popsci.com/science/korea-women-divers-genetics/" target="_blank" style="color: #007acc; font-weight: bold;">Popular Science</a></div>
+    <div style="color: grey; font-size: 0.9em;">interviewed by Lauren Leffer</div>
+  </div>
+
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank">
+      <img src="/figures/media/UHealth.png" alt="University of Utah Health screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://healthcare.utah.edu/newsroom/news/2025/05/its-they-have-superpower-genetic-analysis-of-all-women-extreme-divers-finds" target="_blank" style="color: #007acc; font-weight: bold;">University of Utah Health</a></div>
+    <div style="color: grey; font-size: 0.9em;">interviewed by Sophia Friesen</div>
+  </div>
+
+  <div class="media-card" style="flex-basis: 30%; text-align: center; max-width: 200px;">
+    <a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank">
+      <img src="/figures/media/NatGeo.png" alt="National Geographic screenshot" style="width: 100%; border-radius: 4px;">
+    </a>
+    <div><a href="https://www.nationalgeographic.com/health/article/jeju-korea-women-divers-genetic-adaptations" target="_blank" style="color: #007acc; font-weight: bold;">National Geographic</a></div>
+  </div>
+
+
 
   <p><strong style="font-size: 1.5em;">Genetic and physiological adaptations in the Haenyeo</strong></p>
   <p><strong style="font-size: 1.2em;">In English</strong></p>
@@ -106,7 +143,6 @@ permalink: /media/
 <div class="media-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.5em 2em; margin-top: 1em; padding-left: 1em; justify-items: center; align-items: center;">
   <div><a href="https://www.technologynetworks.com/tn/news/genetic-differences-help-haenyeo-divers-survive-high-pressure-environments-399280" target="_blank"><strong>Technology Networks</strong></a></div>
   <div><a href="https://www.livescience.com/health/genetics/legendary-women-of-the-sea-in-south-korea-freedive-well-into-their-80s-a-new-study-hints-at-how" target="_blank"><strong>Live Science</strong></a></div>
-  <div><a href="https://www.miragenews.com/korean-haenyeo-divers-show-cold-water-genetic-1453864/" target="_blank"><strong>Mirage News</strong></a></div>
   <div><a href="https://www.msn.com/en-us/health/other/genetic-analysis-of-all-women-extreme-divers-finds-changes-linked-to-blood-pressure-and-cold-tolerance/ar-AA1E3BcG" target="_blank"><strong>MSN</strong></a></div>
   <div><a href="https://www.sciencealert.com/legendary-female-free-divers-reveal-evolution-in-action-on-south-korean-island" target="_blank"><strong>Science Alert</strong></a></div>
   <div><a href="https://www.eurekalert.org/news-releases/1081670" target="_blank"><strong>EurekAlert</strong></a></div>
