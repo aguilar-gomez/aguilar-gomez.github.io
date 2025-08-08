@@ -23,7 +23,6 @@ permalink: /media/
 
 <section class="media-coverage">
  <p><strong style="font-size: 1.5em;">Genomic consequences of translocations in Florida Panthers</strong></p>
-  <p><strong style="font-size: 1.2em;">In English</strong></p>
   <!-- Featured Media Row -->
 <!-- Featured Media Row -->
 <div class="featured-media-row" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
