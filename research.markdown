@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ## <span style="color:#0f962c;">Adaptation and Conservation Genomics</span> 
 
-Adaptation is the foundation of evolution and all biology. By uncovering the genetic mechanisms underlying environmental and behavioral adaptation, we gain insight into how species evolve and survive. During my PhD, I have applied population genetic methods to various organisms with unique physiological and phenotypic adaptations. My research focuses on how natural selection shapes diverse traits and preserves genetic diversity across vertebrates.
+By uncovering the genetic mechanisms underlying environmental and behavioral adaptation, we gain insight into how species evolve and survive. During my PhD, I have applied population genetic methods to various organisms with unique physiological and phenotypic adaptations. My research focuses on how natural selection shapes diverse traits and preserves genetic diversity across vertebrates.
 
 ### <span style="color:#65ba77;">Color  Adaptation</span> 
 ---------------------------------------------------------------------------
