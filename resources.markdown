@@ -22,5 +22,13 @@ permalink: /resources/
 | [PRJNA925885](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA925885/)      | Toadheaded agama *Phrynocephalus guinanensis* | - | 1                    |
 
 -------------------------------------------------------
+### Other resources
+
+
+| Link      | Description               | Publication                         | 
+|------------------|------------------------|-------------------------------------|
+| [Dryad dataset](https://datadryad.org/dataset/doi:10.5061/dryad.np5hqc055)     | Exome capture design for the strawberry poison frog, Oophaga pumilio, in Bocas del Toro | Aguilar-Gómez D et al., "Evolution and Diversification of the Aposematic Poison Frog,Oophaga pumilio,in Bocas del Toro", bioRxiv, 2024;     
+
+-------------------------------------------------------
 
 [jekyll-organization]: https://github.com/jekyll
