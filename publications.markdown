@@ -11,7 +11,7 @@ permalink: /publications/
 
 -------------------------------------------------------
 ### 2026
-[<img src="/figures/PimilioGraphicAbstract.png" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2026AguilarGomezPumilio.pdf)
+[<img src="/figures/PumilioGraphicAbstract.png" alt="graphicalAbstract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2026AguilarGomezPumilio.pdf)
 Selection-driven color variation in the aposematic strawberry poison frog, *Oophaga pumilio*
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Layla Freeborn, Lin Yuan, Lydia L. Smith, Alex Guzman, Andrew H. Vaughn, Emma Steigerwald, Adam Stuckert, Yusan Yang, Tyler Linderoth, Matthew MacManes, Kevin J. McGraw, Corinne L. Richards-Zawacki, and Rasmus Nielsen. *CurrentBiology 2026*. [PDF](/files/publications/2026AguilarGomezPumilio.pdf) [DOI](https://doi.org/10.1016/j.cub.2026.01.041)</span> 
