@@ -3,9 +3,9 @@ title: research
 layout: post
 permalink: /research/
 ---
-<div style="text-align: center;">
-## <span style="color:#0f962c;">Adaptation and Conservation Genomics</span>
-</div>
+<h2 style="color:#0f962c; text-align: center;">
+Adaptation and Conservation Genomics
+</h2>
 
 By elucidating the genetic mechanism underlying environmental and behavioral adaptation, we can better understand how species persist, diversify, and respond to changing conditions. I apply population and evolutionary genomic approaches across organisms with distinctive physiological and phenotypic traits, leveraging natural variation to disentangle the roles of selection, drift, demography, and gene flow. My research centers on how these evolutionary forces shape complex traits and maintain or erode genetic diversity across vertebrates. I am also particularly interested in how these dynamics are disrupted by anthropogenic pressures, including habitat fragmentation, population declines, and rapid environmental change.
 
@@ -21,7 +21,7 @@ As anthropogenic environmental change accelerates, quantifying adaptive potentia
 
 This framework is particularly urgent for amphibians, the most threatened vertebrate clade globally, where emerging disease, habitat loss, and climate change interact with small population sizes to erode genetic diversity. My work extends to all vertebrates, more recently mammals of conservation concern, including Florida Panther, Rice’s whale, and the Channel Island fox. Across these systems, I use population genomics to disentangle the relative contributions of selection and drift, evaluate genomic consequences of recent declines, and inform evidence-based management strategies in the Anthropocene.
 
-### <span style="color:#65ba77;">Color Adaptation</span> 
+### <span style="color:#65ba77;">Color Adaptation and Other Interests</span> 
 ---------------------------------------------------------------------------
 I investigate the genetic architecture of color adaptation across diverse taxa. Color plays a central role in predator avoidance (e.g., crypsis and aposematism) and sexual selection. I have worked with fascinating organisms such as the toad-headed agama, strawberry poison frog, and mimic poison frog to understand how they adapt to their environments through color variation.
 
@@ -125,15 +125,15 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
     <div class="hover-text">Evolution of sex chromosomes</div>
     </div>
   </a>
-  
+</div>  
+
+<div style="display: flex; justify-content: space-between;">
   <a href="https://aguilar-gomez.github.io/phrynocephalus/">
      <div class="image-hover-container">
     <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard">
     <div class="hover-text">Lizard adaptation genomics</div>
     </div>
    </a>
-</div>
-<div style="display: flex; justify-content: space-between;">
 <a href="https://aguilar-gomez.github.io/microfluidics/">
     <div class="image-hover-container">
    <img src="/figures/microfluidicsCircle.png" alt="Microfluidics"> 
