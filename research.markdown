@@ -110,7 +110,7 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
       <div class="hover-text">Color genomics of the strawberry poison frog in Bocas del Toro</div>
     </div>
   </a> 
-    <a href="https://aguilar-gomez.github.io/haenyeo/">
+  <a href="https://aguilar-gomez.github.io/haenyeo/">
      <div class="image-hover-container">
       <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
       <div class="hover-text">Genomic adaptation to free diving in the Haenyeo</div>
