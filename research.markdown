@@ -3,7 +3,10 @@ title: research
 layout: post
 permalink: /research/
 ---
-## <span style="color:#0f962c;">       Adaptation and Conservation Genomics</span> 
+<div style="text-align: center;">
+## <span style="color:#0f962c;">Adaptation and Conservation Genomics</span>
+</div>
+
 By elucidating the genetic mechanism underlying environmental and behavioral adaptation, we can better understand how species persist, diversify, and respond to changing conditions. I apply population and evolutionary genomic approaches across organisms with distinctive physiological and phenotypic traits, leveraging natural variation to disentangle the roles of selection, drift, demography, and gene flow. My research centers on how these evolutionary forces shape complex traits and maintain or erode genetic diversity across vertebrates. I am also particularly interested in how these dynamics are disrupted by anthropogenic pressures, including habitat fragmentation, population declines, and rapid environmental change.
 
 ### <span style="color:#2fa2d4;">Evolution in Island Populations</span> 
@@ -122,6 +125,7 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
     <div class="hover-text">Evolution of sex chromosomes</div>
     </div>
   </a>
+  
   <a href="https://aguilar-gomez.github.io/phrynocephalus/">
      <div class="image-hover-container">
     <img src="/figures/lizarddrawingCircle.png" alt="ying yang lizard">
@@ -129,7 +133,6 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
     </div>
    </a>
 </div>
-
 <div style="display: flex; justify-content: space-between;">
 <a href="https://aguilar-gomez.github.io/microfluidics/">
     <div class="image-hover-container">
