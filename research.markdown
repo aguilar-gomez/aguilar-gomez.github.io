@@ -8,9 +8,9 @@ By elucidating the genetic mechanism underlying environmental and behavioral ada
 
 ### <span style="color:#2fa2d4;">Evolution in island populations</span> 
 ---------------------------------------------------------------------------
-I am interested in how evolutionary forces shape small, isolated populations, particularly on islands. In my previous research, I have examined multiple systems in which geographic isolation creates distinct evolutionary trajectories. I had the honor of working with the Haenyeo, a community of free-diving women on Jeju Island, Korea. Our research highlighted their unique genetic history, marked by long-term isolation from the mainland, and identified candidate loci associated with adaptation to cold exposure and blood pressure regulation during diving.
+I am interested in how evolutionary forces shape small, isolated populations, particularly on islands. In my previous research, I have examined multiple systems in which geographic isolation creates distinct evolutionary trajectories. I studied the genetics of the Haenyeo, a community of free-diving women on Jeju Island, Korea. Our research highlighted their unique genetic history, marked by long-term isolation from the mainland, and identified candidate loci associated with adaptation to cold exposure and blood pressure regulation during diving.
 
-I have also been fascinated by the striking phenotypic diversity of the strawberry poison frog across the islands of Bocas del Toro, where small population size and restricted gene flow provide a powerful natural experiment in selection and drift. Most recently, I have been working on the genomics of the Channel Island fox, an iconic island endemic whose extreme bottlenecks and recovery offer a rare opportunity to study how evolutionary and demographic processes interact in small populations of conservation concern.  
+Island systems can produce strikingly different evolutionary outcomes: in the strawberry poison frog across the islands of Bocas del Toro, geographic isolation has promoted remarkable phenotypic diversification, whereas in the Channel Island fox, severe bottlenecks have led to extremely low genetic diversity.
 
 ### <span style="color:#a874c2;">Conservation Genetics and Adaptation to the Anthropocene</span> 
 ---------------------------------------------------------------------------
@@ -98,12 +98,6 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
       <div class="hover-text">Evaluating the genomic rescue in Florida Panthers</div>
     </div>
   </a>
-  <a href="https://aguilar-gomez.github.io/haenyeo/">
-     <div class="image-hover-container">
-      <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
-      <div class="hover-text">Genomic adaptation to free diving in the Haenyeo</div>
-    </div>
-  </a>
 </div>
 
 
@@ -116,6 +110,12 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
       <div class="hover-text">Color genomics of the strawberry poison frog in Bocas del Toro</div>
     </div>
   </a> 
+    <a href="https://aguilar-gomez.github.io/haenyeo/">
+     <div class="image-hover-container">
+      <img src="/figures/haenyeoCircle.png" alt="Haenyeo">
+      <div class="hover-text">Genomic adaptation to free diving in the Haenyeo</div>
+    </div>
+  </a>
   <a href="https://aguilar-gomez.github.io/basiliscus/">
     <div class="image-hover-container">
    <img src="/figures/Basiliscus5_machoDCircle.png" alt="Basiliscus">
