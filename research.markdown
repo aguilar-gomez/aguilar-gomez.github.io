@@ -3,10 +3,10 @@ title: research
 layout: post
 permalink: /research/
 ---
-## <span style="color:#0f962c;">Adaptation and Conservation Genomics</span> 
+## <span style="color:#0f962c;">       Adaptation and Conservation Genomics</span> 
 By elucidating the genetic mechanism underlying environmental and behavioral adaptation, we can better understand how species persist, diversify, and respond to changing conditions. I apply population and evolutionary genomic approaches across organisms with distinctive physiological and phenotypic traits, leveraging natural variation to disentangle the roles of selection, drift, demography, and gene flow. My research centers on how these evolutionary forces shape complex traits and maintain or erode genetic diversity across vertebrates. I am also particularly interested in how these dynamics are disrupted by anthropogenic pressures, including habitat fragmentation, population declines, and rapid environmental change.
 
-### <span style="color:#2fa2d4;">Evolution in island populations</span> 
+### <span style="color:#2fa2d4;">Evolution in Island Populations</span> 
 ---------------------------------------------------------------------------
 I am interested in how evolutionary forces shape small, isolated populations, particularly on islands. In my previous research, I have examined multiple systems in which geographic isolation creates distinct evolutionary trajectories. I studied the genetics of the Haenyeo, a community of free-diving women on Jeju Island, Korea. Our research highlighted their unique genetic history, marked by long-term isolation from the mainland, and identified candidate loci associated with adaptation to cold exposure and blood pressure regulation during diving.
 
