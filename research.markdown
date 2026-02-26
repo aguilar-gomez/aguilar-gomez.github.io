@@ -4,20 +4,23 @@ layout: post
 permalink: /research/
 ---
 ## <span style="color:#0f962c;">Adaptation and Conservation Genomics</span> 
+By elucidating the genetic mechanism underlying environmental and behavioral adaptation, we can better understand how species persist, diversify, and respond to changing conditions. I apply population and evolutionary genomic approaches across organisms with distinctive physiological and phenotypic traits, leveraging natural variation to disentangle the roles of selection, drift, demography, and gene flow. My research centers on how these evolutionary forces shape complex traits and maintain or erode genetic diversity across vertebrates. I am also particularly interested in how these dynamics are disrupted by anthropogenic pressures, including habitat fragmentation, population declines, and rapid environmental change.
 
-By uncovering the genetic mechanisms underlying environmental and behavioral adaptation, we gain insight into how species evolve and survive. During my PhD, I have applied population genetic methods to various organisms with unique physiological and phenotypic adaptations. My research focuses on how natural selection shapes diverse traits and preserves genetic diversity across vertebrates.
-
-### <span style="color:#65ba77;">Color  Adaptation</span> 
+### <span style="color:#2fa2d4;">Evolution in island populations</span> 
 ---------------------------------------------------------------------------
-One of my areas of study is the genetics of color adaptation in different species. I have worked with fascinating organisms such as the toad-headed agama, strawberry poison frog, and mimic poison frog to understand how they adapt to their environments through color variation.
+I am interested in how evolutionary forces shape small, isolated populations, particularly on islands. In my previous research, I have examined multiple systems in which geographic isolation creates distinct evolutionary trajectories. I had the honor of working with the Haenyeo, a community of free-diving women on Jeju Island, Korea. Our research highlighted their unique genetic history, marked by long-term isolation from the mainland, and identified candidate loci associated with adaptation to cold exposure and blood pressure regulation during diving.
 
-### <span style="color:#2fa2d4;">Physiological Adaptation</span> 
----------------------------------------------------------------------------
-I have also explored physiological adaptation in humans, particularly in the Haenyeo, a community of free-diving women in Korea. Our research sought to identify the genes responsible for their remarkable ability to adapt to the physical demands of diving.
+I have also been fascinated by the striking phenotypic diversity of the strawberry poison frog across the islands of Bocas del Toro, where small population size and restricted gene flow provide a powerful natural experiment in selection and drift. Most recently, I have been working on the genomics of the Channel Island fox, an iconic island endemic whose extreme bottlenecks and recovery offer a rare opportunity to study how evolutionary and demographic processes interact in small populations of conservation concern.  
 
 ### <span style="color:#a874c2;">Conservation Genetics and Adaptation to the Anthropocene</span> 
 ---------------------------------------------------------------------------
-As human-driven environmental change accelerates, understanding adaptation becomes critical for conservation. Genomic resources can provide essential tools to assess population health and predict the risk of endangerment. This is especially important for amphibians, which are currently the most threatened group of vertebrates. My work also extends to mammals, where I am involved in conservation genetics projects on species such as pumas, Rice’s whales, and Channel Island foxes.
+As anthropogenic environmental change accelerates, quantifying adaptive potential is central to effective conservation. Genomic data provide high-resolution tools to estimate genetic diversity, reconstruct demographic history, detect inbreeding and bottlenecks, and identify loci associated with environmental resilience. Integrating these approaches allows us to assess population viability and forecast extinction risk under rapid ecological change.
+
+This framework is particularly urgent for amphibians, the most threatened vertebrate clade globally, where emerging disease, habitat loss, and climate change interact with small population sizes to erode genetic diversity. My work extends to all vertebrates, more recently mammals of conservation concern, including Florida Panther, Rice’s whale, and the Channel Island fox. Across these systems, I use population genomics to disentangle the relative contributions of selection and drift, evaluate genomic consequences of recent declines, and inform evidence-based management strategies in the Anthropocene.
+
+### <span style="color:#65ba77;">Color Adaptation</span> 
+---------------------------------------------------------------------------
+I investigate the genetic architecture of color adaptation across diverse taxa. Color plays a central role in predator avoidance (e.g., crypsis and aposematism) and sexual selection. I have worked with fascinating organisms such as the toad-headed agama, strawberry poison frog, and mimic poison frog to understand how they adapt to their environments through color variation.
 
 
 ### <span style="color:#ca64cc;">Projects</span>
