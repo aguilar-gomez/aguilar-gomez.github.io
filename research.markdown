@@ -95,9 +95,15 @@ I investigate the genetic architecture of color adaptation across diverse taxa. 
       <div class="hover-text">Understanding the demography of the critically endangered Rice's whale</div>
     </div>
   </a>
+    <a href="https://aguilar-gomez.github.io/pumas/">
+     <div class="image-hover-container">
+      <img src="/figures/greyFox.png" alt="Channel island fox">
+      <div class="hover-text">Hidden layers of diversity in Island Foxes</div>
+    </div>
+  </a>
   <a href="https://aguilar-gomez.github.io/pumas/">
      <div class="image-hover-container">
-      <img src="/figures/greenPuma.png" alt="Dalle generated puma">
+      <img src="/figures/greenPuma.png" alt="Puma drawing">
       <div class="hover-text">Evaluating the genomic rescue in Florida Panthers</div>
     </div>
   </a>
