@@ -13,3 +13,5 @@ We found that the genetics of the people from Jeju (Haenyeo and non-divers) have
 Read the whole paper here:
 [Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea](https://doi.org/10.1016/j.celrep.2025.115577) <br><br>
 
+[Please visit our media page to see the extensive coverage this paper received](https://aguilar-gomez.github.io/media/)
+
