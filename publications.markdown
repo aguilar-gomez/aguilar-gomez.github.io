@@ -93,22 +93,18 @@ Bheda, Poonam, **Diana Aguilar-Gómez**, Igor Kukhtevich, Johannes Becker, Gille
 ### 2019 and before
 
 4\. Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes
-
 <span style="font-size: smaller; color: #3b3e3f;">Acosta, Armando, Gabriel Suárez-Varón, Luis A. Rodríguez-Miranda, Andrés Lira-Noriega, **Diana Aguilar-Gómez**, Mariana Gutiérrez-Mariscal, Oswaldo Hernández-Gallegos, Fausto Méndez-de-la-Cruz, and Diego Cortez. *Genome Biology and Evolution 2019*. [PDF](/files/publications/2019Basilliscus.pdf) </span>
 
 
 3\. Effects of substrate color on intraspecific body color variation in the toad-headed lizard, Phrynocephalus versicolor.
-
 <span style="font-size: smaller; color: #3b3e3f;">Haojie Tong, Jiashen Li, Yubin Wo, Gang Shao, Wei Zhao, **Diana Aguilar-Gómez**, and Yuanting Jin. *Ecology and Evolution 2019*. [PDF](/files/publications/2019Effectsofsubstratecolor.pdf)</span>
 
 
 2\. Male mutation bias is the main force shaping chromosomal substitution rates in monotreme mammals.
-
 <span style="font-size: smaller; color: #3b3e3f;">Vivian Link, **Diana Aguilar-Gómez**, Ciro Ramírez-Suástegui, Laurence D. Hurst, and Diego Cortez. *Genome biology and evolution 2017*. [PDF](/files/publications/2017MaleMutationBiasDCortez.pdf)</span>
 
 
 1\. Histone propionylation is a novel mark of active chromatin
-
 <span style="font-size: smaller; color: #3b3e3f;">Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/2017PropionylationRSchneider.pdf)</span>
 
 [jekyll-organization]: https://github.com/jekyll
