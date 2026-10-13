@@ -14,12 +14,12 @@ permalink: /publications/
 
 14\. Advancing Marine Mammal Conservation Through Omics Tools and Integration of Indigenous Ecological Knowledge
 
-<span style="font-size: smaller; color: #3b3e3f;">Isabella M. Reeves, Gabrielle Genty, Alana Alexander, **Diana Aguilar-Gómez**, Kerstin Bilgmann, Ane Liv Berthelsen, Arial M. Brewer, Emma L. Carroll, Grace A. Day, Eda M. Dönmez, Franca Eichenberger, Fabricio Furni, Joseph I. Hoffman, Steven Holmes, Keith M. Hernandez, Karen K. Martien, Svenja M. Marfurt, Morgan L. McCarthy, Phillip A. Morin, Mariana F. Nery, Sergio Nigenda-Morales, Éadin N. O'Mahony, Erika Oteri, Danai Papageorgiou, Kim M. Parsons, Nicolás Restrepo-Garzón, Lennart Schreiber, Ramari Oliphant Stewart, David L. J. Vendrami, Morten Tange Olsen, Ebru Unal, Catherine E. Meyer, Sebastian Alvarez-Costes. *Molecular Ecology 2026* [DOI](https://doi.org/10.1111/mec.70567)</span> 
+<span style="font-size: smaller; color: #3b3e3f;">Isabella M. Reeves, Gabrielle Genty, Alana Alexander, **Diana Aguilar-Gómez**,et al (33 authors total). *Molecular Ecology 2026* [DOI](https://doi.org/10.1111/mec.70567)</span> 
 
-<br> <br> <br>
+<br> 
 
 
-[<img src="/figures/PumilioGraphicAbstract.png" alt="graphicalAbstract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2026AguilarGomezPumilio.pdf)
+[<img src="/figures/coverPumilio.jpg" alt="graphicalAbstract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2026AguilarGomezPumilio.pdf)
 13\. Selection-driven color variation in the aposematic strawberry poison frog, *Oophaga pumilio*
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Layla Freeborn, Lin Yuan, Lydia L. Smith, Alex Guzman, Andrew H. Vaughn, Emma Steigerwald, Adam Stuckert, Yusan Yang, Tyler Linderoth, Matthew MacManes, Kevin J. McGraw, Corinne L. Richards-Zawacki, and Rasmus Nielsen. *Current Biology 2026*. [PDF](/files/publications/2026AguilarGomezPumilio.pdf) [DOI](https://doi.org/10.1016/j.cub.2026.01.041)</span> 
