@@ -92,7 +92,7 @@ Bheda, Poonam, **Diana Aguilar-Gómez**, Igor Kukhtevich, Johannes Becker, Gille
 -------------------------------------------------------
 ### 2019 and before
 
-4\. Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes
+4\. Corytophanids Replaced the Pleurodont XY System with a New Pair of XY Chromosomes.
 <span style="font-size: smaller; color: #3b3e3f;">Acosta, Armando, Gabriel Suárez-Varón, Luis A. Rodríguez-Miranda, Andrés Lira-Noriega, **Diana Aguilar-Gómez**, Mariana Gutiérrez-Mariscal, Oswaldo Hernández-Gallegos, Fausto Méndez-de-la-Cruz, and Diego Cortez. *Genome Biology and Evolution 2019*. [PDF](/files/publications/2019Basilliscus.pdf) </span>
 
 
