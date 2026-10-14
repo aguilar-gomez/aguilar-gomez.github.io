@@ -11,7 +11,7 @@ permalink: /publications/
 -------------------------------------------------------
 ### Preprints
 
-16\. Recent effective population size of the snowy owl (*Bubo scandiacus*) tracks historical climate variation. <span style="font-size: smaller; color: #3b3e3f;">Enevoldsen, ELG \*, **Aguilar-Gómez, D** \*, KO Jacobsen, R Solheim, IJ Øien, T Aarvak, SNK Hoff, OS Kersten, KL Wiebe,
+16\. Recent effective population size of the snowy owl (*Bubo scandiacus*) tracks historical climate variation. <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, D** \*, Enevoldsen, ELG \*, KO Jacobsen, R Solheim, IJ Øien, T Aarvak, SNK Hoff, OS Kersten, KL Wiebe,
 JF Therrien, I Menyushina, et al. *bioRxiv (2026)*. [DOI](https://www.biorxiv.org/content/10.64898/2026.09.30.752484v2)</span>
 
 
