@@ -95,7 +95,6 @@ JF Therrien, I Menyushina, et al. *bioRxiv (2026)*. [DOI](https://www.biorxiv.or
 <span style="font-size: smaller; color: #3b3e3f;">
 Bheda, Poonam, **Diana Aguilar-Gómez**, Igor Kukhtevich, Johannes Becker, Gilles Charvin, Antonis Kirmizis, and Robert Schneider. *STAR protocols 2020*. [PDF](/files/publications/2020StarProtocol.pdf)</span>
 
-<br>
 
 5\. Single-Cell Tracing Dissects Regulation of Maintenance and Inheritance of Transcriptional Reinduction Memory.
 
