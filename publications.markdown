@@ -8,7 +8,7 @@ permalink: /publications/
   ol.pubs { list-style: decimal outside; margin: 0 0 1em 0; padding-left: 2.2em; }
   ol.pubs > li { margin: 0 0 1.2em 0; padding: 0; overflow: visible; }
   ol.pubs > li::after { content: ""; display: block; clear: both; }
-  ol.pubs .pub-img { float: left; margin: 0 1em 0.3em 0; }
+  ol.pubs .pub-img { float: right; margin: 0 0 0.3em 1em; }
   ol.pubs .pub-img img { width: 150px; display: block; }
   ol.pubs .pub-text { display: block; overflow: hidden; }
   ol.pubs .meta { font-size: smaller; color: #3b3e3f; }
