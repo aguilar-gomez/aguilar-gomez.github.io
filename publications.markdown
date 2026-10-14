@@ -11,21 +11,15 @@ permalink: /publications/
 -------------------------------------------------------
 ### Preprints
 
-16\. Recent effective population size of the snowy owl (*Bubo scandiacus*) tracks historical climate variation
-
-<span style="font-size: smaller; color: #3b3e3f;">Enevoldsen, ELG \*, **Aguilar-Gómez, D** \*, KO Jacobsen, R Solheim, IJ Øien, T Aarvak, SNK Hoff, OS Kersten, KL Wiebe,
+16\. Recent effective population size of the snowy owl (*Bubo scandiacus*) tracks historical climate variation. <span style="font-size: smaller; color: #3b3e3f;">Enevoldsen, ELG \*, **Aguilar-Gómez, D** \*, KO Jacobsen, R Solheim, IJ Øien, T Aarvak, SNK Hoff, OS Kersten, KL Wiebe,
 JF Therrien, I Menyushina, et al. *bioRxiv (2026)*. [DOI](https://www.biorxiv.org/content/10.64898/2026.09.30.752484v2)</span>
 
 
-15\. Long‑term isolation and introgression shape the genomic distinctiveness of Rice’s Whale
-
-<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, JA Robinson, CC Kyriazis, M Kenfield, S Nigenda‑Morales, et al.
+15\. Long‑term isolation and introgression shape the genomic distinctiveness of Rice’s Whale. <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, JA Robinson, CC Kyriazis, M Kenfield, S Nigenda‑Morales, et al.
 *bioRxiv (2026)* 2026‑06. [DOI](https://doi.org/10.64898/2026.06.15.732430)</span> 
 
 
-14\. Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
-
-<span style="font-size: smaller; color: #3b3e3f;">Linderoth, Tyler , **Diana Aguilar-Gómez**, Emily White, Evan Twomey, Adam Stuckert, Ke Bi, Amy Ko, Natalie Graham, Joana L. Rocha, Jason Chang, Matthew D. MacManes, Kyle Summers, Rasmus Nielsen
+14\. Genetic basis of aposematic coloration in a mimetic radiation of poison frogs. <span style="font-size: smaller; color: #3b3e3f;">Linderoth, Tyler , **Diana Aguilar-Gómez**, Emily White, Evan Twomey, Adam Stuckert, Ke Bi, Amy Ko, Natalie Graham, Joana L. Rocha, Jason Chang, Matthew D. MacManes, Kyle Summers, Rasmus Nielsen
 *bioRXiv 2023*. [PDF](/files/publications/2023Rimitatorpreprint.pdf)</span>
 
 
@@ -116,7 +110,7 @@ Bheda, Poonam, **Diana Aguilar-Gómez**, Igor Kukhtevich, Johannes Becker, Gille
 <span style="font-size: smaller; color: #3b3e3f;">Vivian Link, **Diana Aguilar-Gómez**, Ciro Ramírez-Suástegui, Laurence D. Hurst, and Diego Cortez. *Genome biology and evolution 2017*. [PDF](/files/publications/2017MaleMutationBiasDCortez.pdf)</span>
 
 
-1\. Histone propionylation is a novel mark of active chromatin
+1\. Histone propionylation is a novel mark of active chromatin.
 <span style="font-size: smaller; color: #3b3e3f;">Adam F. Kebede, Anna Nieborak, Lara Zorro Shahidian, Stephanie Legras, **Diana Aguilar-Gómez**, Florian Richter, Marijke P. Baltissen, Gergo Meszaros, Helena de Fatima Magliarelli, Romeo Ricci, Michiel Vermeulen, Gerhard Mittler and Robert Schneider. *Nature Structural & Molecular Biology 2017*. [PDF](/files/publications/2017PropionylationRSchneider.pdf)</span>
 
 [jekyll-organization]: https://github.com/jekyll
