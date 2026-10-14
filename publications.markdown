@@ -8,11 +8,28 @@ permalink: /publications/
 
 <span style="font-size: smaller; color: #3b3e3f;">*co-first authors</span>
 
+-------------------------------------------------------
+### Preprints
 
+16\. Recent effective population size of the snowy owl (*Bubo scandiacus*) tracks historical climate variation
+
+<span style="font-size: smaller; color: #3b3e3f;">Enevoldsen, ELG \*, **Aguilar-Gómez, D** \*, KO Jacobsen, R Solheim, IJ Øien, T Aarvak, SNK Hoff, OS Kersten, KL Wiebe,
+JF Therrien, I Menyushina, et al. *bioRxiv (2026)*. [DOI](https://doi.org/10.64898/2026.09.30.752484)</span>
+
+
+15\. Long‑term isolation and introgression shape the genomic distinctiveness of Rice’s Whale
+<span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, JA Robinson, CC Kyriazis, M Kenfield, S Nigenda‑Morales, et al.
+*bioRxiv (2026)* 2026‑06. [DOI](https://doi.org/10.64898/2026.06.15.732430)</span> 
+
+
+14\. Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
+
+<span style="font-size: smaller; color: #3b3e3f;">Linderoth, Tyler , **Diana Aguilar-Gómez**, Emily White, Evan Twomey, Adam Stuckert, Ke Bi, Amy Ko, Natalie Graham, Joana L. Rocha, Jason Chang, Matthew D. MacManes, Kyle Summers, Rasmus Nielsen
+*bioRXiv 2023*. [PDF](/files/publications/2023Rimitatorpreprint.pdf)</span>
 -------------------------------------------------------
 ### 2026
 
-14\. Advancing Marine Mammal Conservation Through Omics Tools and Integration of Indigenous Ecological Knowledge
+13\. Advancing Marine Mammal Conservation Through Omics Tools and Integration of Indigenous Ecological Knowledge
 
 <span style="font-size: smaller; color: #3b3e3f;">Isabella M. Reeves, Gabrielle Genty, Alana Alexander, **Diana Aguilar-Gómez**,et al (33 authors total). *Molecular Ecology 2026* [DOI](https://doi.org/10.1111/mec.70567)</span> 
 
@@ -20,7 +37,7 @@ permalink: /publications/
 
 
 [<img src="/figures/coverPumilio.jpg" alt="graphicalAbstract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2026AguilarGomezPumilio.pdf)
-13\. Selection-driven color variation in the aposematic strawberry poison frog, *Oophaga pumilio*
+12\. Selection-driven color variation in the aposematic strawberry poison frog, *Oophaga pumilio*
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Layla Freeborn, Lin Yuan, Lydia L. Smith, Alex Guzman, Andrew H. Vaughn, Emma Steigerwald, Adam Stuckert, Yusan Yang, Tyler Linderoth, Matthew MacManes, Kevin J. McGraw, Corinne L. Richards-Zawacki, and Rasmus Nielsen. *Current Biology 2026*. [PDF](/files/publications/2026AguilarGomezPumilio.pdf) [DOI](https://doi.org/10.1016/j.cub.2026.01.041)</span> 
 
@@ -29,7 +46,7 @@ permalink: /publications/
 -------------------------------------------------------
 ### 2025
 [<img src="/figures/PNASCover.jpeg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezFloridaPanther.pdf)
-12\. Genetic rescue of Florida panthers reduced homozygosity but did not swamp ancestral genotypes
+11\. Genetic rescue of Florida panthers reduced homozygosity but did not swamp ancestral genotypes
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Lin Yuan, Yulin Zhang, Alexander Ochoa, Melanie Culver, Robert R. Fitak, Dave Onorato, Kirk E. Lohmueller and Rasmus Nielsen. *PNAS 2025*. [PDF](/files/publications/2025AguilarGomezFloridaPanther.pdf) [DOI](https://doi.org/10.1073/pnas.2410945122)</span> 
 
@@ -38,24 +55,17 @@ permalink: /publications/
 
 
 [<img src="/figures/VisualAbHae.jpg" alt="graphicalAbtract" style="float:left;padding-left:25px;padding-right:25px;width:150px">](/files/publications/2025AguilarGomezHaenyeo.pdf)
-11\. Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea
+10\. Genetic and Training Adaptations in the Haenyeo Divers of Jeju, Korea
 
 <span style="font-size: smaller; color: #3b3e3f;">**Aguilar-Gómez, Diana**, Jacob Bejder, Jonathan Andreasen, Yelin Ko, Andrew Vaughn, Kendell Clement, Martin Tristani, Joo Young Lee, Nikolai Nordsborg, Rasmus Nielsen, Melissa Ilardo.*Cell Reports 2025*  [PDF](/files/publications/2025AguilarGomezHaenyeo.pdf) [DOI](https://doi.org/10.1016/j.celrep.2025.115577)</span>
 <br><br><br>
 
 -------------------------------------------------------
 ### 2024
-10\. Prevalent role of homologous recombination in the repair of specific double-strand breaks in *Rhizobium etli*
+9\. Prevalent role of homologous recombination in the repair of specific double-strand breaks in *Rhizobium etli*
 
 <span style="font-size: smaller; color: #3b3e3f;">Yáñez-Cuna, Fares Osam, **Diana Aguilar-Gómez**, Araceli Dávalos, and David Romero
 *Frontiers in Microbiology 2024*. [PDF](/files/publications/2024DSBrepair.pdf)</span>
-
--------------------------------------------------------
-### 2023
-9\. Genetic basis of aposematic coloration in a mimetic radiation of poison frogs
-
-<span style="font-size: smaller; color: #3b3e3f;">Linderoth, Tyler , **Diana Aguilar-Gómez**, Emily White, Evan Twomey, Adam Stuckert, Ke Bi, Amy Ko, Natalie Graham, Joana L. Rocha, Jason Chang, Matthew D. MacManes, Kyle Summers, Rasmus Nielsen
-*bioRXiv 2023*. [PDF](/files/publications/2023Rimitatorpreprint.pdf)</span>
 
 -------------------------------------------------------
 ### 2022
